@@ -1,0 +1,22 @@
+{
+  "data": [
+	{
+      "Customer Identifier ID": "543545",
+      "Customer Legal name": "John",
+	  "Customer alias name":"Carter",
+      "Ownership type": "Publicly Quoted",
+      "Entity Type": "On Recognised SE",
+	  "Sub Client entity type": "Correspondent Bank",
+	  "Business Segment": "Oil and Natural gas",
+	  "Registered address": "4505 S. Maryland Parkway",
+	  "Country": "US",
+	  "PIN Code":"64566",
+	  "Date of incorporation": "24-May-1993",
+	  "Country of Incorporation": "US",
+	  "Registration Number": "534543",
+	  "Office Contact Number(s)": "011-4324-4325",
+	  "Primary Booking Location": "US",
+	  "Additional Booking Location": "Eagan"
+    }
+	]
+}

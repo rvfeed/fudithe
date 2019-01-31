@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "Customer Identifier ID": "                    ",
+      "Customer Legal name": "",
+	  "Customer alias name":"",
+      "Ownership type": "",
+      "Entity Type": "",
+	  "Sub Client entity type": "                       ",
+	  "Business Segment": "",
+	  "Registered address": "",
+	  "Country": "",
+	  "PIN Code":"",
+	  "Date of incorporation": "",
+	  "Country of Incorporation": "",
+	  "Registration Number": "",
+	  "Office Contact Number(s)": "                    ",
+	  "Primary Booking Location": "",
+	  "Additional Booking Location": ""
+    },
+	{
+      "Customer Identifier ID": "                      ",
+      "Customer Legal name": "",
+	  "Customer alias name":"",
+      "Ownership type": "",
+      "Entity Type": "",
+	  "Sub Client entity type": "                      ",
+	  "Business Segment": "",
+	  "Registered address": "",
+	  "Country": "",
+	  "PIN Code":"",
+	  "Date of incorporation": "                          ",
+	  "Country of Incorporation": "",
+	  "Registration Number": "",
+	  "Office Contact Number(s)": "",
+	  "Primary Booking Location": "",
+	  "Additional Booking Location": ""
+    },
+	{
+      "Customer Identifier ID": "                      ",
+      "Customer Legal name": "",
+	  "Customer alias name":"                         ",
+      "Ownership type": "",
+      "Entity Type": "",
+	  "Sub Client entity type": "",
+	  "Business Segment": "",
+	  "Registered address": "                ",
+	  "Country": "",
+	  "PIN Code":"",
+	  "Date of incorporation": "",
+	  "Country of Incorporation": "                        ",
+	  "Registration Number": "",
+	  "Office Contact Number(s)": "",
+	  "Primary Booking Location": "",
+	  "Additional Booking Location": ""
+    }
+	]
+}

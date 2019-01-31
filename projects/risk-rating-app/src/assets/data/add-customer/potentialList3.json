@@ -1,0 +1,22 @@
+{
+  "data": [
+	{
+      "Customer Identifier ID": "968768",
+      "Customer Legal name": "Jason",
+	  "Customer alias name":"Vin",
+      "Ownership type": "Government Owned",
+      "Entity Type": "Public Sector Bodies",
+	  "Sub Client entity type": "Public Sector Bodies",
+	  "Business Segment": "Oil and Natural gas",
+	  "Registered address": "4505 S. Maryland Parkway",
+	  "Country": "Singapore",
+	  "PIN Code":"89101",
+	  "Date of incorporation": "24-May-1998",
+	  "Country of Incorporation": "Singapore",
+	  "Registration Number": "534543",
+	  "Office Contact Number(s)": "011-8566-5677",
+	  "Primary Booking Location": "Singapore",
+	  "Additional Booking Location": "India"
+    }
+	]
+}

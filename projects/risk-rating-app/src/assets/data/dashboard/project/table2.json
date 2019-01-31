@@ -1,0 +1,122 @@
+{
+  "table1": [
+    {
+	  "id": 1,
+      "head": "Available for Concurrent Checking",
+      "value1": "123",
+	  "value2": "431", 
+      "value3": "332",
+	  "total" : "965"
+    },
+	{
+	  "id": 2,
+      "head": "WIP",
+      "value1": "321",
+	  "value2": "232", 
+      "value3": "323",
+	  "total" : "678"
+    },
+	{
+	  "id": 3,
+      "head": "Resubmitted by Maker",
+      "value1": "767",
+	  "value2": "754", 
+      "value3": "654",
+	  "total" : "988"
+    },
+	{
+	  "id": 4,
+      "head": "Rejected - Pending with Maker",
+      "value1": "543",
+	  "value2": "656", 
+      "value3": "233",
+	  "total" : "234"
+    }
+  ],
+  "table2": [
+    {
+	  "id": 1,
+      "head": "Available for Concurrent Checking",
+      "value1": "123",
+	  "value2": "431", 
+      "value3": "332",
+	  "total" : "877"
+    },
+	{
+	  "id": 2,
+      "head": "WIP",
+      "value1": "321",
+	  "value2": "232", 
+      "value3": "323",
+	  "total" : "767"
+    },
+	{
+	  "id": 3,
+      "head": "Resubmitted by Maker",
+      "value1": "767",
+	  "value2": "754", 
+      "value3": "654",
+	  "total" : "922"
+    },
+	{
+	  "id": 4,
+      "head": "Rejected - Pending with Maker",
+      "value1": "543",
+	  "value2": "656", 
+      "value3": "233",
+	  "total" : "234"
+    }
+  ],
+  "table3": [
+    {
+	  "id": 1,
+      "head": "WIP",
+      "value1": "123",
+	  "value2": "431", 
+      "value3": "332",
+	  "total" : "567"
+    },
+	{
+	  "id": 2,
+      "head": "Resubmitted by Maker",
+      "value1": "321",
+	  "value2": "232", 
+      "value3": "323",
+	  "total" : "864"
+    },
+	{
+	  "id": 3,
+      "head": "Rejected - Pending with Maker",
+      "value1": "767",
+	  "value2": "754", 
+      "value3": "654",
+	  "total" : "657"
+    }
+  ],
+  "table4": [
+    {
+	  "id": 1,
+      "head": "WIP",
+      "value1": "123",
+	  "value2": "431", 
+      "value3": "332",
+	  "total" : "1086"
+    },
+	{
+	  "id": 2,
+      "head": "Resubmitted by Maker",
+      "value1": "321",
+	  "value2": "232", 
+      "value3": "323",
+	  "total" : "988"
+    },
+	{
+	  "id": 3,
+      "head": "Rejected - Pending with Maker",
+      "value1": "767",
+	  "value2": "754", 
+      "value3": "654",
+	  "total" : "888"
+    }
+  ]
+}

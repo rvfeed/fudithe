@@ -1,0 +1,628 @@
+{
+    "widget1": {
+        "title": "Mode of Transactions",
+        "chart": [
+            {
+                "key": "Cheque",
+                "values": [
+                    {"x": 1987, "y": 0},
+                    {"x": 1988, "y": 1},
+                    {"x": 1989, "y": 4},
+                    {"x": 1990, "y": 7},
+                    {"x": 1991, "y": 7},
+                    {"x": 1992, "y": 20},
+                    {"x": 1993, "y": 21},
+                    {"x": 1994, "y": 40},
+                    {"x": 1995, "y": 50},
+                    {"x": 1996, "y": 48},
+                    {"x": 1997, "y": 63},
+                    {"x": 1998, "y": 59},
+                    {"x": 1999, "y": 43},
+                    {"x": 2000, "y": 54},
+                    {"x": 2001, "y": 56},
+                    {"x": 2002, "y": 73},
+                    {"x": 2003, "y": 71},
+                    {"x": 2004, "y": 85},
+                    {"x": 2005, "y": 77},
+                    {"x": 2006, "y": 95},
+                    {"x": 2007, "y": 107},
+                    {"x": 2008, "y": 127},
+                    {"x": 2009, "y": 122},
+                    {"x": 2010, "y": 126},
+                    {"x": 2011, "y": 132},
+                    {"x": 2012, "y": 120},
+                    {"x": 2013, "y": 118},
+                    {"x": 2014, "y": 107},
+                    {"x": 2015, "y": 110},
+                    {"x": 2016, "y": 117}
+                ]
+            },
+            {
+                "key": "Cash",
+                "values": [
+                    {"x": 1987, "y": 0},
+                    {"x": 1988, "y": 1},
+                    {"x": 1989, "y": 1},
+                    {"x": 1990, "y": 2},
+                    {"x": 1991, "y": 3},
+                    {"x": 1992, "y": 13},
+                    {"x": 1993, "y": 13},
+                    {"x": 1994, "y": 24},
+                    {"x": 1995, "y": 34},
+                    {"x": 1996, "y": 36},
+                    {"x": 1997, "y": 46},
+                    {"x": 1998, "y": 43},
+                    {"x": 1999, "y": 32},
+                    {"x": 2000, "y": 41},
+                    {"x": 2001, "y": 40},
+                    {"x": 2002, "y": 54},
+                    {"x": 2003, "y": 49},
+                    {"x": 2004, "y": 61},
+                    {"x": 2005, "y": 56},
+                    {"x": 2006, "y": 71},
+                    {"x": 2007, "y": 78},
+                    {"x": 2008, "y": 90},
+                    {"x": 2009, "y": 87},
+                    {"x": 2010, "y": 87},
+                    {"x": 2011, "y": 87},
+                    {"x": 2012, "y": 76},
+                    {"x": 2013, "y": 72},
+                    {"x": 2014, "y": 63},
+                    {"x": 2015, "y": 66},
+                    {"x": 2016, "y": 75}
+                ]
+            },
+            {
+                "key": "Transfer",
+                "values": [
+                    {"x": 1987, "y": 0},
+                    {"x": 1988, "y": 1},
+                    {"x": 1989, "y": 2},
+                    {"x": 1990, "y": 5},
+                    {"x": 1991, "y": 8},
+                    {"x": 1992, "y": 3},
+                    {"x": 1993, "y": 6},
+                    {"x": 1994, "y": 5},
+                    {"x": 1995, "y": 9},
+                    {"x": 1996, "y": 10},
+                    {"x": 1997, "y": 9},
+                    {"x": 1998, "y": 20},
+                    {"x": 1999, "y": 25},
+                    {"x": 2000, "y": 30},
+                    {"x": 2001, "y": 32},
+                    {"x": 2002, "y": 13},
+                    {"x": 2003, "y": 12},
+                    {"x": 2004, "y": 13},
+                    {"x": 2005, "y": 11},
+                    {"x": 2006, "y": 15},
+                    {"x": 2007, "y": 15},
+                    {"x": 2008, "y": 19},
+                    {"x": 2009, "y": 19},
+                    {"x": 2010, "y": 21},
+                    {"x": 2011, "y": 22},
+                    {"x": 2012, "y": 19},
+                    {"x": 2013, "y": 19},
+                    {"x": 2014, "y": 19},
+                    {"x": 2015, "y": 22},
+                    {"x": 2016, "y": 24}
+                ]
+            },
+			{
+                "key": "Wire",
+                "values": [
+                    {"x": 1987, "y": 0},
+                    {"x": 1988, "y": 1},
+                    {"x": 1989, "y": 2},
+                    {"x": 1990, "y": 2},
+                    {"x": 1991, "y": 3},
+                    {"x": 1992, "y": 3},
+                    {"x": 1993, "y": 4},
+                    {"x": 1994, "y": 5},
+                    {"x": 1995, "y": 9},
+                    {"x": 1996, "y": 6},
+                    {"x": 1997, "y": 9},
+                    {"x": 1998, "y": 7},
+                    {"x": 1999, "y": 4},
+                    {"x": 2000, "y": 8},
+                    {"x": 2001, "y": 9},
+                    {"x": 2002, "y": 13},
+                    {"x": 2003, "y": 12},
+                    {"x": 2004, "y": 13},
+                    {"x": 2005, "y": 11},
+                    {"x": 2006, "y": 15},
+                    {"x": 2007, "y": 15},
+                    {"x": 2008, "y": 19},
+                    {"x": 2009, "y": 19},
+                    {"x": 2010, "y": 21},
+                    {"x": 2011, "y": 22},
+                    {"x": 2012, "y": 19},
+                    {"x": 2013, "y": 19},
+                    {"x": 2014, "y": 19},
+                    {"x": 2015, "y": 22},
+                    {"x": 2016, "y": 24}
+                ]
+            }
+        ]
+    },
+    "widget2": {
+        "title": "Storage",
+        "value": {
+            "used": "74.2Gb",
+            "total": "110Gb",
+            "percentage": 67.45
+        },
+        "detail": "This is the back side. You can show detailed information here."
+    },
+    "widget3": {
+        "title": "Bandwidth",
+        "value": {
+            "used": "221Gb",
+            "total": "3.5Tb",
+            "percentage": 6.31
+        },
+        "detail": "This is the back side. You can show detailed information here."
+    },
+    "widget4": {
+        "title": "Latency",
+        "value": "21ms",
+        "footnote": "Higher than average",
+        "detail": "This is the back side. You can show detailed information here.",
+        "chart": [
+            {
+                "key": "Latency",
+                "values": [
+                    {"x": 1, "y": 1},
+                    {"x": 2, "y": 4},
+                    {"x": 3, "y": 1},
+                    {"x": 4, "y": 2},
+                    {"x": 5, "y": 3},
+                    {"x": 6, "y": 4},
+                    {"x": 7, "y": 3},
+                    {"x": 8, "y": 2},
+                    {"x": 9, "y": 3},
+                    {"x": 10, "y": 1},
+                    {"x": 11, "y": 1},
+                    {"x": 12, "y": 4},
+                    {"x": 13, "y": 1},
+                    {"x": 14, "y": 2},
+                    {"x": 15, "y": 3},
+                    {"x": 16, "y": 4},
+                    {"x": 17, "y": 3},
+                    {"x": 18, "y": 2},
+                    {"x": 19, "y": 3},
+                    {"x": 20, "y": 1},
+                    {"x": 21, "y": 1},
+                    {"x": 22, "y": 4},
+                    {"x": 23, "y": 1},
+                    {"x": 24, "y": 2},
+                    {"x": 25, "y": 3}
+                ]
+            }
+        ]
+    },
+    "widget5": {
+        "title": "Cluster Load",
+        "value": "75%",
+        "detail": "This is the back side. You can show detailed information here.",
+        "footnote": "Lower than average"
+    },
+    "widget6": {
+        "title": "Average CPU Usage (Live)",
+        "chart": [
+            {
+                "key": "Average CPU Usage",
+                "values": [
+                    {"x": 5, "y": 72},
+                    {"x": 10, "y": 26},
+                    {"x": 15, "y": 51},
+                    {"x": 20, "y": 36},
+                    {"x": 25, "y": 66},
+                    {"x": 30, "y": 69},
+                    {"x": 35, "y": 50},
+                    {"x": 40, "y": 35},
+                    {"x": 45, "y": 49},
+                    {"x": 50, "y": 64},
+                    {"x": 55, "y": 37},
+                    {"x": 60, "y": 78},
+                    {"x": 65, "y": 54},
+                    {"x": 70, "y": 8},
+                    {"x": 75, "y": 52},
+                    {"x": 80, "y": 50},
+                    {"x": 85, "y": 56},
+                    {"x": 90, "y": 71},
+                    {"x": 95, "y": 31},
+                    {"x": 100, "y": 37},
+                    {"x": 105, "y": 15},
+                    {"x": 110, "y": 45},
+                    {"x": 115, "y": 35},
+                    {"x": 120, "y": 28},
+                    {"x": 125, "y": 7},
+                    {"x": 130, "y": 36},
+                    {"x": 135, "y": 7},
+                    {"x": 140, "y": 79},
+                    {"x": 145, "y": 12},
+                    {"x": 150, "y": 5}
+                ]
+            }
+        ]
+    },
+    "widget7": {
+        "title": "Process Explorer",
+        "table": {
+            "columns": [
+                {
+                    "title": "Name"
+                },
+                {
+                    "title": "User"
+                },
+                {
+                    "title": "Avg. IO"
+                },
+                {
+                    "title": "Avg. CPU"
+                },
+                {
+                    "title": "Avg. Mem"
+                }
+            ],
+            "rows": [
+                [
+                    {
+                        "value": "anvil",
+                        "classes": "text-bold"
+                    },
+                    {
+                        "value": "dovecot",
+                        "classes": "text-boxed m-0 green-bg white-fg"
+                    },
+                    {"value": 0},
+                    {"value": 0},
+                    {"value": 2}
+                ],
+                [
+                    {
+                        "value": "cpdavd-accept",
+                        "classes": "text-bold"
+                    },
+                    {
+                        "value": "root",
+                        "classes": "text-boxed m-0 grey-400-bg white-fg"
+                    },
+                    {"value": 0},
+                    {"value": 0},
+                    {
+                        "value": 23,
+                        "classes": "amber-700-fg"
+                    }
+                ],
+                [
+                    {
+                        "value": "cpsrvd-ssl",
+                        "classes": "text-bold"
+                    },
+                    {
+                        "value": "root",
+                        "classes": "text-boxed m-0 grey-400-bg white-fg"
+                    },
+                    {"value": 1},
+                    {"value": 27},
+                    {
+                        "value": 28,
+                        "classes": "amber-700-fg"
+                    }
+                ],
+                [
+                    {
+                        "value": "crond",
+                        "classes": "text-bold"
+                    },
+                    {
+                        "value": "root",
+                        "classes": "text-boxed m-0 grey-400-bg white-fg"
+                    },
+                    {"value": 30},
+                    {"value": 0},
+                    {"value": 1}
+                ],
+                [
+                    {
+                        "value": "dnsadmin",
+                        "classes": "text-bold"
+                    },
+                    {
+                        "value": "root",
+                        "classes": "text-boxed m-0 grey-400-bg white-fg"
+                    },
+                    {"value": 0},
+                    {"value": 0},
+                    {
+                        "value": 21,
+                        "classes": "amber-700-fg"
+                    }
+                ],
+                [
+                    {
+                        "value": "httpd",
+                        "classes": "text-bold"
+                    },
+                    {
+                        "value": "root",
+                        "classes": "text-boxed m-0 grey-400-bg white-fg"
+                    },
+                    {"value": 4},
+                    {"value": 0},
+                    {"value": 8}
+                ],
+                [
+                    {
+                        "value": "httpd",
+                        "classes": "text-bold"
+                    },
+                    {
+                        "value": "nobody",
+                        "classes": "text-boxed m-0 indigo-bg white-fg"
+                    },
+                    {"value": 4},
+                    {"value": 0.05},
+                    {
+                        "value": 77,
+                        "classes": "red-fg"
+                    }
+                ],
+                [
+                    {
+                        "value": "init",
+                        "classes": "text-bold"
+                    },
+                    {
+                        "value": "root",
+                        "classes": "text-boxed m-0 grey-400-bg white-fg"
+                    },
+                    {"value": 305},
+                    {"value": 0},
+                    {
+                        "value": 188,
+                        "classes": "red-fg"
+                    }
+                ],
+                [
+                    {
+                        "value": "leechprotect",
+                        "classes": "text-bold"
+                    },
+                    {
+                        "value": "root",
+                        "classes": "text-boxed m-0 grey-400-bg white-fg"
+                    },
+                    {"value": 0.59},
+                    {"value": 0},
+                    {"value": 13}
+                ],
+                [
+                    {
+                        "value": "mysqld",
+                        "classes": "text-bold"
+                    },
+                    {
+                        "value": "mysql",
+                        "classes": "text-boxed m-0 deep-orange-bg white-fg"
+                    },
+                    {"value": 7},
+                    {"value": 0.13},
+                    {
+                        "value": 186,
+                        "classes": "red-fg"
+                    }
+                ],
+                [
+                    {
+                        "value": "mysqld_safe",
+                        "classes": "text-bold"
+                    },
+                    {
+                        "value": "root",
+                        "classes": "text-boxed m-0 grey-400-bg white-fg"
+                    },
+                    {"value": 0},
+                    {"value": 0},
+                    {"value": 1}
+                ],
+                [
+                    {
+                        "value": "named",
+                        "classes": "text-bold"
+                    },
+                    {
+                        "value": "named",
+                        "classes": "text-boxed m-0 teal-bg white-fg"
+                    },
+                    {"value": 0.29},
+                    {"value": 0},
+                    {
+                        "value": 19,
+                        "classes": "amber-700-fg"
+                    }
+                ],
+                [
+                    {
+                        "value": "ntpd",
+                        "classes": "text-bold"
+                    },
+                    {
+                        "value": "ntp",
+                        "classes": "text-boxed m-0 light-blue-bg white-fg"
+                    },
+                    {"value": 0.49},
+                    {"value": 0},
+                    {"value": 2}
+                ],
+                [
+                    {
+                        "value": "pop3-login",
+                        "classes": "text-bold"
+                    },
+                    {
+                        "value": "dovenull",
+                        "classes": "text-boxed m-0 amber-700-bg white-fg"
+                    },
+                    {"value": 0},
+                    {"value": 0},
+                    {"value": 10}
+                ],
+                [
+                    {
+                        "value": "pure-authd",
+                        "classes": "text-bold"
+                    },
+                    {
+                        "value": "root",
+                        "classes": "text-boxed m-0 grey-400-bg white-fg"
+                    },
+                    {"value": 137},
+                    {"value": 0},
+                    {
+                        "value": 88,
+                        "classes": "red-fg"
+                    }
+                ],
+                [
+                    {
+                        "value": "queueprocd",
+                        "classes": "text-bold"
+                    },
+                    {
+                        "value": "root",
+                        "classes": "text-boxed m-0 grey-400-bg white-fg"
+                    },
+                    {"value": 410},
+                    {"value": 0},
+                    {"value": 8}
+                ],
+                [
+                    {
+                        "value": "rsyslogd",
+                        "classes": "text-bold"
+                    },
+                    {
+                        "value": "root",
+                        "classes": "text-boxed m-0 grey-400-bg white-fg"
+                    },
+                    {"value": 57},
+                    {"value": 0},
+                    {"value": 4}
+                ],
+                [
+                    {
+                        "value": "spamd",
+                        "classes": "text-bold"
+                    },
+                    {
+                        "value": "root",
+                        "classes": "text-boxed m-0 grey-400-bg white-fg"
+                    },
+                    {"value": 0},
+                    {"value": 0},
+                    {
+                        "value": 56,
+                        "classes": "red-fg"
+                    }
+                ],
+                [
+                    {
+                        "value": "sshd",
+                        "classes": "text-bold"
+                    },
+                    {
+                        "value": "root",
+                        "classes": "text-boxed m-0 grey-400-bg white-fg"
+                    },
+                    {"value": 0},
+                    {"value": 0},
+                    {"value": 1}
+                ],
+                [
+                    {
+                        "value": "tailwatchd",
+                        "classes": "text-bold"
+                    },
+                    {
+                        "value": "root",
+                        "classes": "text-boxed m-0 grey-400-bg white-fg"
+                    },
+                    {"value": 37},
+                    {"value": 0.03},
+                    {
+                        "value": 18,
+                        "classes": "amber-700-fg"
+                    }
+                ]
+            ]
+        }
+    },
+    "widget8": {
+        "title": "I/O Activity",
+        "activities": [
+            {
+                "process" : "queueprocd",
+                "type": "Input",
+                "value": "50KB"
+            },
+            {
+                "process" : "queueprocd",
+                "type": "Input",
+                "value": "24.5Mb"
+            },
+            {
+                "process" : "queueprocd",
+                "type": "Output",
+                "value": "887Kb"
+            },
+            {
+                "process" : "sshd",
+                "type": "Output",
+                "value": "441B"
+            },
+            {
+                "process" : "queueprocd",
+                "type": "Input",
+                "value": "6.27Kb"
+            },
+            {
+                "process" : "init",
+                "type": "Output",
+                "value": "13.8Kb"
+            },
+            {
+                "process" : "queueprocd",
+                "type": "Output",
+                "value": "5.6Mb"
+            },
+            {
+                "process" : "init",
+                "type": "Output",
+                "value": "44.6Kb"
+            },
+            {
+                "process" : "queueprocd",
+                "type": "Input",
+                "value": "5Mb"
+            },
+            {
+                "process" : "tailwatchd",
+                "type": "Output",
+                "value": "1.1Kb"
+            },
+            {
+                "process" : "pure-authd",
+                "type": "Input",
+                "value": "5.3Kb"
+            },
+            {
+                "process" : "init",
+                "type": "Output",
+                "value": "176Kb"
+            }
+        ]
+    }
+}

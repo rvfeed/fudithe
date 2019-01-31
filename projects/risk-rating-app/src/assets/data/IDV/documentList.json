@@ -1,0 +1,33 @@
+{
+  "documentlist": [
+    {
+	"docId": 1,
+    "docName": "Company Registry Search",
+    "isSelected": true,
+    "selectedType":[{"type1":true},{"type2":true},{"type3":false},{"type4":false}]
+    },
+    {
+	"docId": 2,
+    "docName": "Certified copy of Incorporation",
+    "isSelected": true,
+    "selectedType":[{"type1":true},{"type2":true},{"type3":false},{"type4":false}]
+    },
+    {
+	"docId": 3,
+    "docName": "Partnership Deed",
+    "isSelected": true,
+    "selectedType":[{"type1":true},{"type2":true},{"type3":false},{"type4":false}]
+    },
+    {
+	"docId": 4,
+    "docName": "Condition(Anyone is required)",
+    "isSelected": true,
+    "selectedType":[{"type1":true},{"type2":true},{"type3":false},{"type4":false}]
+    },
+    {
+	"docId": 5,
+    "docName": "Exception(If required)",
+    "isSelected": true,
+    "selectedType":[{"type1":true},{"type2":true},{"type3":false},{"type4":false}]
+    }]
+}

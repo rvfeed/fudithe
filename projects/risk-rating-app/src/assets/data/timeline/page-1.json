@@ -1,0 +1,324 @@
+{
+    "data": [
+        {
+            "card": {
+                "template": "app/core/directives/ms-card/templates/template-5/template-5.html",
+                "title": "Friends",
+                "event": "Vincent killer approved address of Registration",
+                "media": {
+                    "image": {
+                        "src": "assets/images/avatars/garry.jpg",
+                        "alt": "Andrew Ryan"
+                    }
+                }
+            },
+            "icon": "icon-account-plus",
+            "time": "July 22, 2015, 18:05PM",
+            "event": "You have a new follower"
+        },
+		{
+            "card": {
+                "template": "app/core/directives/ms-card/templates/template-5/template-5.html",
+                "title": "Friends",
+                "event": "Shawma Owen requested verification of Saction list",
+                "media": {
+                    "image": {
+                        "src": "assets/images/avatars/alice.jpg",
+                        "alt": "Alice Freeman"
+                    }
+                }
+            },
+            "icon" : "icon-account-plus",
+            "time": "July 22, 2015, 16:40PM",
+            "event": "You have a new follower"
+        },
+		{
+            "card": {
+                "template": "app/core/directives/ms-card/templates/template-5/template-5.html",
+                "title": "Friends",
+                "event": "Christian Delgado requested approval from Business Head",
+                "media": {
+                    "image": {
+                        "src": "assets/images/avatars/alice.jpg",
+                        "alt": "Alice Freeman"
+                    }
+                }
+            },
+            "icon" : "icon-account-plus",
+            "time": "July 22, 2015, 15:35PM",
+            "event": "You have a new follower"
+        },
+		{
+            "card": {
+                "template": "app/core/directives/ms-card/templates/template-5/template-5.html",
+                "title": "Friends",
+                "event": "Jonathan smith added new Onboarding list",
+                "media": {
+                    "image": {
+                        "src": "assets/images/avatars/alice.jpg",
+                        "alt": "Alice Freeman"
+                    }
+                }
+            },
+            "icon" : "icon-account-plus",
+            "time": "July 22, 2015, 13:00PM",
+            "event": "You have a new follower"
+        },
+		{
+            "card": {
+                "template": "app/core/directives/ms-card/templates/template-5/template-5.html",
+                "title": "Friends",
+                "event": "Vincent killer requested verification  of Saction list",
+                "media": {
+                    "image": {
+                        "src": "assets/images/avatars/alice.jpg",
+                        "alt": "Alice Freeman"
+                    }
+                }
+            },
+            "icon" : "icon-account-plus",
+            "time": "July 22, 2015, 12:33PM",
+            "event": "You have a new follower"
+        },
+		{
+            "card": {
+                "template": "app/core/directives/ms-card/templates/template-5/template-5.html",
+                "title": "Friends",
+                "event": "Vincent killer approved address of Registration",
+                "media": {
+                    "image": {
+                        "src": "assets/images/avatars/garry.jpg",
+                        "alt": "Andrew Ryan"
+                    }
+                }
+            },
+            "icon": "icon-account-plus",
+            "time": "July 22, 2015, 18:05PM",
+            "event": "You have a new follower"
+        },
+		{
+            "card": {
+                "template": "app/core/directives/ms-card/templates/template-5/template-5.html",
+                "title": "Friends",
+                "event": "Shawma Owen requested verification of Saction list",
+                "media": {
+                    "image": {
+                        "src": "assets/images/avatars/alice.jpg",
+                        "alt": "Alice Freeman"
+                    }
+                }
+            },
+            "icon" : "icon-account-plus",
+            "time": "July 22, 2015, 16:40PM",
+            "event": "You have a new follower"
+        },
+		{
+            "card": {
+                "template": "app/core/directives/ms-card/templates/template-5/template-5.html",
+                "title": "Friends",
+                "event": "Christian Delgado requested approval from Business Head",
+                "media": {
+                    "image": {
+                        "src": "assets/images/avatars/alice.jpg",
+                        "alt": "Alice Freeman"
+                    }
+                }
+            },
+            "icon" : "icon-account-plus",
+            "time": "July 22, 2015, 15:35PM",
+            "event": "You have a new follower"
+        },
+		{
+            "card": {
+                "template": "app/core/directives/ms-card/templates/template-5/template-5.html",
+                "title": "Friends",
+                "event": "Jonathan smith added new Onboarding list",
+                "media": {
+                    "image": {
+                        "src": "assets/images/avatars/alice.jpg",
+                        "alt": "Alice Freeman"
+                    }
+                }
+            },
+            "icon" : "icon-account-plus",
+            "time": "July 22, 2015, 13:00PM",
+            "event": "You have a new follower"
+        },
+		{
+            "card": {
+                "template": "app/core/directives/ms-card/templates/template-5/template-5.html",
+                "title": "Friends",
+                "event": "Vincent killer requested verification  of Saction list",
+                "media": {
+                    "image": {
+                        "src": "assets/images/avatars/alice.jpg",
+                        "alt": "Alice Freeman"
+                    }
+                }
+            },
+            "icon" : "icon-account-plus",
+            "time": "July 22, 2015, 12:33PM",
+            "event": "You have a new follower"
+        },
+		{
+            "card": {
+                "template": "app/core/directives/ms-card/templates/template-5/template-5.html",
+                "title": "Friends",
+                "event": "Vincent killer approved address of Registration",
+                "media": {
+                    "image": {
+                        "src": "assets/images/avatars/garry.jpg",
+                        "alt": "Andrew Ryan"
+                    }
+                }
+            },
+            "icon": "icon-account-plus",
+            "time": "July 22, 2015, 18:05PM",
+            "event": "You have a new follower"
+        },
+		{
+            "card": {
+                "template": "app/core/directives/ms-card/templates/template-5/template-5.html",
+                "title": "Friends",
+                "event": "Shawma Owen requested verification of Saction list",
+                "media": {
+                    "image": {
+                        "src": "assets/images/avatars/alice.jpg",
+                        "alt": "Alice Freeman"
+                    }
+                }
+            },
+            "icon" : "icon-account-plus",
+            "time": "July 22, 2015, 16:40PM",
+            "event": "You have a new follower"
+        },
+		{
+            "card": {
+                "template": "app/core/directives/ms-card/templates/template-5/template-5.html",
+                "title": "Friends",
+                "event": "Christian Delgado requested approval from Business Head",
+                "media": {
+                    "image": {
+                        "src": "assets/images/avatars/alice.jpg",
+                        "alt": "Alice Freeman"
+                    }
+                }
+            },
+            "icon" : "icon-account-plus",
+            "time": "July 22, 2015, 15:35PM",
+            "event": "You have a new follower"
+        },
+		{
+            "card": {
+                "template": "app/core/directives/ms-card/templates/template-5/template-5.html",
+                "title": "Friends",
+                "event": "Jonathan smith added new Onboarding list",
+                "media": {
+                    "image": {
+                        "src": "assets/images/avatars/alice.jpg",
+                        "alt": "Alice Freeman"
+                    }
+                }
+            },
+            "icon" : "icon-account-plus",
+            "time": "July 22, 2015, 13:00PM",
+            "event": "You have a new follower"
+        },
+		{
+            "card": {
+                "template": "app/core/directives/ms-card/templates/template-5/template-5.html",
+                "title": "Friends",
+                "event": "Vincent killer requested verification  of Saction list",
+                "media": {
+                    "image": {
+                        "src": "assets/images/avatars/alice.jpg",
+                        "alt": "Alice Freeman"
+                    }
+                }
+            },
+            "icon" : "icon-account-plus",
+            "time": "July 22, 2015, 12:33PM",
+            "event": "You have a new follower"
+        },
+		{
+            "card": {
+                "template": "app/core/directives/ms-card/templates/template-5/template-5.html",
+                "title": "Friends",
+                "event": "Vincent killer approved address of Registration",
+                "media": {
+                    "image": {
+                        "src": "assets/images/avatars/garry.jpg",
+                        "alt": "Andrew Ryan"
+                    }
+                }
+            },
+            "icon": "icon-account-plus",
+            "time": "July 22, 2015, 18:05PM",
+            "event": "You have a new follower"
+        },
+		{
+            "card": {
+                "template": "app/core/directives/ms-card/templates/template-5/template-5.html",
+                "title": "Friends",
+                "event": "Shawma Owen requested verification of Saction list",
+                "media": {
+                    "image": {
+                        "src": "assets/images/avatars/alice.jpg",
+                        "alt": "Alice Freeman"
+                    }
+                }
+            },
+            "icon" : "icon-account-plus",
+            "time": "July 22, 2015, 16:40PM",
+            "event": "You have a new follower"
+        },
+		{
+            "card": {
+                "template": "app/core/directives/ms-card/templates/template-5/template-5.html",
+                "title": "Friends",
+                "event": "Christian Delgado requested approval from Business Head",
+                "media": {
+                    "image": {
+                        "src": "assets/images/avatars/alice.jpg",
+                        "alt": "Alice Freeman"
+                    }
+                }
+            },
+            "icon" : "icon-account-plus",
+            "time": "July 22, 2015, 15:35PM",
+            "event": "You have a new follower"
+        },
+		{
+            "card": {
+                "template": "app/core/directives/ms-card/templates/template-5/template-5.html",
+                "title": "Friends",
+                "event": "Jonathan smith added new Onboarding list",
+                "media": {
+                    "image": {
+                        "src": "assets/images/avatars/alice.jpg",
+                        "alt": "Alice Freeman"
+                    }
+                }
+            },
+            "icon" : "icon-account-plus",
+            "time": "July 22, 2015, 13:00PM",
+            "event": "You have a new follower"
+        },
+		{
+            "card": {
+                "template": "app/core/directives/ms-card/templates/template-5/template-5.html",
+                "title": "Friends",
+                "event": "Vincent killer requested verification  of Saction list",
+                "media": {
+                    "image": {
+                        "src": "assets/images/avatars/alice.jpg",
+                        "alt": "Alice Freeman"
+                    }
+                }
+            },
+            "icon" : "icon-account-plus",
+            "time": "July 22, 2015, 12:33PM",
+            "event": "You have a new follower"
+        }
+    ]
+}

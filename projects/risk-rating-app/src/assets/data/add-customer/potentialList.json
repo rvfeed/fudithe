@@ -1,0 +1,24 @@
+{
+  "data": [
+    {
+      "Customer Identifier ID": "121232",
+      "Customer Legal name": "Frank",
+	  "Customer alias name":"Dennis",
+      "Ownership type": "Privately Owned",
+      "Entity Type": "Private Company",
+	  "Sub Client entity type": "Regulated FI",
+	  "Business Segment": "Oil and Natural gas",
+	  "Registered address": "4505 S. Maryland Parkway",
+	  "Country": "Las Vegas",
+	  "PIN Code":"89101",
+	  "Date of incorporation": "24-May-1980",
+	  "Country of Incorporation": "Las Vegas",
+	  "Registration Number": "534543",
+	  "Office Contact Number(s)": "011-3456-3454",
+	  "Primary Booking Location": "Las Vegas",
+	  "Additional Booking Location": "Eagan",
+	  "Dateofperiodic": "10.05.2017",
+	  "Filestatus":"Pending"
+    }
+	]
+}

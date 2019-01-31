@@ -1,0 +1,106 @@
+{
+  "table1": [
+    {
+	  "id": 1,
+      "head": "WIP",
+      "value1": "6",
+	  "value2": "5", 
+      "value3": "7",
+	  "total" : "18"
+    },
+	{
+	  "id": 2,
+      "head": "RETURN-IN",
+      "value1": "3",
+	  "value2": "1", 
+      "value3": "1",
+	  "total" : "5"
+    },
+	{
+	  "id": 3,
+      "head": "SUBMITTED",
+      "value1": "2",
+	  "value2": "4", 
+      "value3": "5",
+	  "total" : "11"
+    }
+  ],
+  "table2": [
+    {
+	  "id": 1,
+      "head": "WIP",
+      "value1": "3",
+	  "value2": "2", 
+      "value3": "4",
+	  "total" : "9"
+    },
+	{
+	  "id": 2,
+      "head": "RETURN-IN",
+      "value1": "2",
+	  "value2": "1", 
+      "value3": "3",
+	  "total" : "6"
+    },
+	{
+	  "id": 3,
+      "head": "SUBMITTED",
+      "value1": "3",
+	  "value2": "4", 
+      "value3": "5",
+	  "total" : "12"
+    }
+  ],
+  "table3": [
+    {
+	  "id": 1,
+      "head": "WIP",
+      "value1": "3",
+	  "value2": "2", 
+      "value3": "4",
+	  "total" : "9"
+    },
+	{
+	  "id": 2,
+      "head": "RETURN-IN",
+      "value1": "1",
+	  "value2": "5", 
+      "value3": "3",
+	  "total" : "9"
+    },
+	{
+	  "id": 3,
+      "head": "SUBMITTED",
+      "value1": "2",
+	  "value2": "6", 
+      "value3": "3",
+	  "total" : "11"
+    }
+  ],
+  "table4": [
+    {
+	  "id": 1,
+      "head": "WIP",
+      "value1": "3",
+	  "value2": "5", 
+      "value3": "1",
+	  "total" : "9"
+    },
+	{
+	  "id": 2,
+      "head": "RETURN-IN",
+      "value1": "1",
+	  "value2": "3", 
+      "value3": "2",
+	  "total" : "6"
+    },
+	{
+	  "id": 3,
+      "head": "SUBMITTED",
+      "value1": "4",
+	  "value2": "5", 
+      "value3": "2",
+	  "total" : "11"
+    }
+  ]
+}

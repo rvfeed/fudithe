@@ -1,0 +1,47 @@
+{
+    "data": [
+        {
+            "card": {
+                "template": "app/core/directives/ms-card/templates/template-11/template-11.html",
+                "title": "Assessment"
+            },
+             "icon": "assets/images/risk/assessment.jpg"
+        },
+        {
+            "card": {
+                "template": "app/core/directives/ms-card/templates/template-11/template-11.html",
+                "title": "Mandatory",
+                "event": "Outcome of the assessment",
+                "event1": "HIGH"
+            },
+             "icon": "assets/images/risk/mandatory.jpg"
+        },
+		{
+            "card": {
+                "template": "app/core/directives/ms-card/templates/template-11/template-11.html",
+                "title": "Risk based",
+                "event": "Outcome of the assessment",
+                "event1": "MEDIUM"
+            },
+             "icon": "assets/images/risk/risk-based.jpg"
+        },
+		{
+            "card": {
+                "template": "app/core/directives/ms-card/templates/template-11/template-11.html",
+                "title": "Decision",
+                "event": "Onboard the client"
+            },
+             "icon": "assets/images/risk/decision.jpg"
+        },
+		{
+            "card": {
+                "template": "app/core/directives/ms-card/templates/template-11/template-11.html",
+                "title": "Rating",
+                "event": "HIGH",
+                "event1": "Comment:",
+                "event2": "Contrary to popular belief, Lorem Ipsum is not simply random text"
+            },
+             "icon": "assets/images/risk/rating.jpg"
+        }
+    ]
+}

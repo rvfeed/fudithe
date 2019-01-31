@@ -1,0 +1,34 @@
+{
+    "data": [
+        {
+            "UserId": 1,
+            "UserName": "maker",
+            "password": "maker@123",
+            "auth": "maker"
+        },
+        {
+            "UserId": 2,
+            "UserName": "checker",
+            "password": "checker@123",
+            "auth": "checker"
+        },
+		{
+            "UserId": 3,
+            "UserName": "advisor",
+            "password": "advisor@123",
+            "auth": "advisor"
+        },
+		{
+            "UserId": 4,
+            "UserName": "approver",
+            "password": "approver@123",
+            "auth": "approver"
+        },
+		{
+            "UserId": 5,
+            "UserName": "admin",
+            "password": "admin@123",
+            "auth": "admin"
+        }
+    ]
+}

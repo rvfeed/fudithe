@@ -1,0 +1,4325 @@
+{
+    "projects": [
+        {
+            "name": "ACME Corp. Backend App"
+        },
+        {
+            "name": "ACME Corp. Frontend App"
+        },
+        {
+            "name": "Creapond"
+        },
+        {
+            "name": "Withinpixels"
+        }
+    ],
+	"widget22": {
+        "ranges": {
+            "DY": "Yesterday",
+            "DT": "New Customer",
+            "DTM": "Tomorrow"
+        },
+		"title": "My Task",
+        "currentRange": "DT",
+        "data": {
+            "label": "Tasks",
+            "count": {
+                "DY": 21,
+                "DT": 20,
+                "DTM": 19
+            },
+            "extra": {
+                "label": "Tasks",
+                "count": {
+                    "DY": 6,
+                    "DT": 7,
+                    "DTM": "-"
+                }
+            }
+        },
+        "detail": "You can show some detailed information about this widget in here."
+    },
+    "widget1": {
+        "ranges": {
+            "DY": "Yesterday",
+            "DT": "New Customer",
+            "DTM": "Tomorrow"
+        },
+		"title": "New Customer",
+        "currentRange": "DT",
+        "data": {
+            "label": "Tasks",
+            "count": {
+                "DY": 21,
+                "DT": 454,
+                "DTM": 19
+            },
+            "extra": {
+                "label": "Tasks",
+                "count": {
+                    "DY": 6,
+                    "DT": 7,
+                    "DTM": "-"
+                }
+            }
+        },
+        "detail": "You can show some detailed information about this widget in here."
+    },
+    "widget2": {
+        "title": "Onboarding",
+        "data": {
+            "label": "Due Tasks",
+            "count": 434,
+            "extra": {
+                "label": "Due Task",
+                "count": 2
+            }
+        },
+        "detail": "You can show some detailed information about this widget in here."
+    },
+    "widget3": {
+        "title": "Add Products",
+        "data": {
+            "label": "Tasks",
+            "count": 232,
+            "extra": {
+                "label": "Tasks",
+                "count": 0
+            }
+        },
+        "detail": "You can show some detailed information about this widget in here."
+    },
+    "widget4": {
+        "title": "Add Location",
+        "data": {
+            "label": "Tasks",
+            "count": 232,
+            "extra": {
+                "label": "Tasks",
+                "count": 8
+            }
+        },
+        "detail": "You can show some detailed information about this widget in here."
+    },
+	"widget12": {
+        "title": "Periodic Review",
+        "data": {
+            "label": "Tasks",
+            "count": 324,
+            "extra": {
+                "label": "Tasks",
+                "count": 8
+            }
+        },
+        "detail": "You can show some detailed information about this widget in here."
+    },
+	"widget13": {
+        "title": "Trigger Events",
+        "data": {
+            "label": "Tasks",
+            "count": 123,
+            "extra": {
+                "label": "Tasks",
+                "count": 8
+            }
+        },
+        "detail": "You can show some detailed information about this widget in here."
+    },
+    "widget5": {
+        "title": "Github Issues",
+        "ranges": {
+            "1": "Last One Month",
+            "2": "Last 3 Months",
+            "3": "Last 6 Months",
+			"4": "Last 9 Months",
+			"5": "Last 12 Months"
+        },
+        "mainChart": [
+            {
+                "key": "Me",
+                "values": {
+                    "1": [
+                        {"x": "High", "y": 2},
+                        {"x": "Medium", "y": 3},
+                        {"x": "Low", "y": 2}
+                    ],
+                    "2": [
+                        {"x": "High", "y": 3},
+                        {"x": "Medium", "y": 4},
+                        {"x": "Low", "y": 5}
+                    ],
+                    "3": [
+                        {"x": "High", "y": 2},
+                        {"x": "Medium", "y": 5},
+                        {"x": "Low", "y": 7}
+                    ],
+                    "4": [
+                        {"x": "High", "y": 2},
+                        {"x": "Medium", "y": 5},
+                        {"x": "Low", "y": 7}
+                    ],
+                    "5": [
+                        {"x": "High", "y": 5},
+                        {"x": "Medium", "y": 8},
+                        {"x": "Low", "y": 9}
+                    ]
+                }
+            },
+            {
+                "key": "My Team",
+                "values": {
+                    "1": [
+                        {"x": "High", "y": 5},
+                        {"x": "Medium", "y": 9},
+                        {"x": "Low", "y": 4}
+                    ],
+                    "2": [
+                        {"x": "High", "y": 6},
+                        {"x": "Medium", "y": 8},
+                        {"x": "Low", "y": 9}
+                    ],
+                    "3": [
+                        {"x": "High", "y": 5},
+                        {"x": "Medium", "y": 7},
+                        {"x": "Low", "y": 9}
+                    ],
+                    "4": [
+                        {"x": "High", "y": 6},
+                        {"x": "Medium", "y": 7},
+                        {"x": "Low", "y": 9}
+                    ],
+                    "5": [
+                        {"x": "High", "y": 10},
+                        {"x": "Medium", "y": 13},
+                        {"x": "Low", "y": 16}
+                    ]
+                }
+            }
+        ],
+        "supporting": {
+            "created": {
+                "label": "CREATED",
+                "count": {
+                    "2W": 48,
+                    "LW": 46,
+                    "TW": 54
+                },
+                "chart": {
+                    "key": "Created",
+                    "values": {
+                        "2W": [
+                            {"x": 0, "y": 5},
+                            {"x": 1, "y": 8},
+                            {"x": 2, "y": 5}
+                        ],
+                        "LW": [
+                            {"x": 0, "y": 6},
+                            {"x": 1, "y": 3},
+                            {"x": 2, "y": 7}
+                        ],
+                        "TW": [
+                            {"x": 0, "y": 3},
+                            {"x": 1, "y": 2},
+                            {"x": 2, "y": 1}
+                        ]
+                    }
+                }
+            },
+            "closed": {
+                "label": "CLOSED",
+                "count": {
+                    "2W": 27,
+                    "LW": 31,
+                    "TW": 26
+                },
+                "chart": {
+                    "key": "Closed",
+                    "values": {
+                        "2W": [
+                            {"x": 0, "y": 3},
+                            {"x": 1, "y": 2},
+                            {"x": 2, "y": 1}
+                        ],
+                        "LW": [
+                            {"x": 0, "y": 6},
+                            {"x": 1, "y": 5},
+                            {"x": 2, "y": 4}
+                        ],
+                        "TW": [
+                            {"x": 0, "y": 6},
+                            {"x": 1, "y": 3},
+                            {"x": 2, "y": 7}
+                        ]
+                    }
+                }
+            },
+            "reOpened": {
+                "label": "RE-OPENED",
+                "count": {
+                    "2W": 4,
+                    "LW": 5,
+                    "TW": 2
+                },
+                "chart": {
+                    "key": "Re-Opened",
+                    "values": {
+                        "2W": [
+                            {"x": 0, "y": 6},
+                            {"x": 1, "y": 3},
+                            {"x": 2, "y": 7}
+                        ],
+                        "LW": [
+                            {"x": 0, "y": 5},
+                            {"x": 1, "y": 7},
+                            {"x": 2, "y": 8}
+                        ],
+                        "TW": [
+                            {"x": 0, "y": 3},
+                            {"x": 1, "y": 2},
+                            {"x": 2, "y": 1}
+                        ]
+                    }
+                }
+            },
+            "wontFix": {
+                "label": "WON'T FIX",
+                "count": {
+                    "2W": 6,
+                    "LW": 3,
+                    "TW": 4
+                },
+                "chart": {
+                    "key": "Won't Fix",
+                    "values": {
+                        "2W": [
+                            {"x": 0, "y": 5},
+                            {"x": 1, "y": 7},
+                            {"x": 2, "y": 4}
+                        ],
+                        "LW": [
+                            {"x": 0, "y": 6},
+                            {"x": 1, "y": 3},
+                            {"x": 2, "y": 7}
+                        ],
+                        "TW": [
+                            {"x": 0, "y": 6},
+                            {"x": 1, "y": 5},
+                            {"x": 2, "y": 4}
+                        ]
+                    }
+                }
+            },
+            "needsTest": {
+                "label": "NEEDS TEST",
+                "count": {
+                    "2W": 10,
+                    "LW": 7,
+                    "TW": 8
+                },
+                "chart": {
+                    "key": "Needs Test",
+                    "values": {
+                        "2W": [
+                            {"x": 0, "y": 6},
+                            {"x": 1, "y": 5},
+                            {"x": 2, "y": 4}
+                        ],
+                        "LW": [
+                            {"x": 0, "y": 5},
+                            {"x": 1, "y": 7},
+                            {"x": 2, "y": 8}
+                        ],
+                        "TW": [
+                            {"x": 0, "y": 6},
+                            {"x": 1, "y": 3},
+                            {"x": 2, "y": 7}
+                        ]
+                    }
+                }
+            },
+            "fixed": {
+                "label": "FIXED",
+                "count": {
+                    "2W": 21,
+                    "LW": 17,
+                    "TW": 14
+                },
+                "chart": {
+                    "key": "Fixed",
+                    "values": {
+                        "2W": [
+                            {"x": 0, "y": 5},
+                            {"x": 1, "y": 7},
+                            {"x": 2, "y": 8}
+                        ],
+                        "LW": [
+                            {"x": 0, "y": 6},
+                            {"x": 1, "y": 5},
+                            {"x": 2, "y": 4}
+                        ],
+                        "TW": [
+                            {"x": 0, "y": 5},
+                            {"x": 1, "y": 7},
+                            {"x": 2, "y": 4}
+                        ]
+                    }
+                }
+            }
+        }
+    },
+	"widget24": {
+        "title": "Github Issues",
+        "ranges": {
+            "1": "Last One Month",
+            "2": "Last 3 Months",
+            "3": "Last 6 Months",
+			"4": "Last 9 Months",
+			"5": "Last 12 Months"
+        },
+        "mainChart": [
+            {
+                "key": "Me",
+                "values": {
+                    "1": [
+                        {"x": "Major", "y": 3},
+                        {"x": "Minor", "y": 5}
+                    ],
+                    "2": [
+                        {"x": "Major", "y": 3},
+                        {"x": "Minor", "y": 4}
+                    ],
+                    "3": [
+                        {"x": "Major", "y": 2},
+                        {"x": "Minor", "y": 2}
+                    ],
+                    "4": [
+                        {"x": "Major", "y": 2},
+                        {"x": "Minor", "y": 6}
+                    ],
+                    "5": [
+                        {"x": "Major", "y": 2},
+                        {"x": "Minor", "y": 7}
+                    ]
+                }
+            },
+            {
+                "key": "My Team",
+                "values": {
+                    "1": [
+                        {"x": "Major", "y": 5},
+                        {"x": "Minor", "y": 9}
+                    ],
+                    "2": [
+                        {"x": "Major", "y": 7},
+                        {"x": "Minor", "y": 9}
+                    ],
+                    "3": [
+                        {"x": "Major", "y": 9},
+                        {"x": "Minor", "y": 15}
+                    ],
+                    "4": [
+                        {"x": "Major", "y": 4},
+                        {"x": "Minor", "y": 9}
+                    ],
+                    "5": [
+                        {"x": "Major", "y": 7},
+                        {"x": "Minor", "y": 10}
+                    ]
+                }
+            }
+        ],
+        "supporting": {
+            "created": {
+                "label": "CREATED",
+                "count": {
+                    "2W": 48,
+                    "LW": 46,
+                    "TW": 54
+                },
+                "chart": {
+                    "key": "Created",
+                    "values": {
+                        "2W": [
+                            {"x": 0, "y": 5},
+                            {"x": 1, "y": 8},
+                            {"x": 2, "y": 5}
+                        ],
+                        "LW": [
+                            {"x": 0, "y": 6},
+                            {"x": 1, "y": 3},
+                            {"x": 2, "y": 7}
+                        ],
+                        "TW": [
+                            {"x": 0, "y": 3},
+                            {"x": 1, "y": 2},
+                            {"x": 2, "y": 1}
+                        ]
+                    }
+                }
+            },
+            "closed": {
+                "label": "CLOSED",
+                "count": {
+                    "2W": 27,
+                    "LW": 31,
+                    "TW": 26
+                },
+                "chart": {
+                    "key": "Closed",
+                    "values": {
+                        "2W": [
+                            {"x": 0, "y": 3},
+                            {"x": 1, "y": 2},
+                            {"x": 2, "y": 1}
+                        ],
+                        "LW": [
+                            {"x": 0, "y": 6},
+                            {"x": 1, "y": 5},
+                            {"x": 2, "y": 4}
+                        ],
+                        "TW": [
+                            {"x": 0, "y": 6},
+                            {"x": 1, "y": 3},
+                            {"x": 2, "y": 7}
+                        ]
+                    }
+                }
+            },
+            "reOpened": {
+                "label": "RE-OPENED",
+                "count": {
+                    "2W": 4,
+                    "LW": 5,
+                    "TW": 2
+                },
+                "chart": {
+                    "key": "Re-Opened",
+                    "values": {
+                        "2W": [
+                            {"x": 0, "y": 6},
+                            {"x": 1, "y": 3},
+                            {"x": 2, "y": 7}
+                        ],
+                        "LW": [
+                            {"x": 0, "y": 5},
+                            {"x": 1, "y": 7},
+                            {"x": 2, "y": 8}
+                        ],
+                        "TW": [
+                            {"x": 0, "y": 3},
+                            {"x": 1, "y": 2},
+                            {"x": 2, "y": 1}
+                        ]
+                    }
+                }
+            },
+            "wontFix": {
+                "label": "WON'T FIX",
+                "count": {
+                    "2W": 6,
+                    "LW": 3,
+                    "TW": 4
+                },
+                "chart": {
+                    "key": "Won't Fix",
+                    "values": {
+                        "2W": [
+                            {"x": 0, "y": 5},
+                            {"x": 1, "y": 7},
+                            {"x": 2, "y": 4}
+                        ],
+                        "LW": [
+                            {"x": 0, "y": 6},
+                            {"x": 1, "y": 3},
+                            {"x": 2, "y": 7}
+                        ],
+                        "TW": [
+                            {"x": 0, "y": 6},
+                            {"x": 1, "y": 5},
+                            {"x": 2, "y": 4}
+                        ]
+                    }
+                }
+            },
+            "needsTest": {
+                "label": "NEEDS TEST",
+                "count": {
+                    "2W": 10,
+                    "LW": 7,
+                    "TW": 8
+                },
+                "chart": {
+                    "key": "Needs Test",
+                    "values": {
+                        "2W": [
+                            {"x": 0, "y": 6},
+                            {"x": 1, "y": 5},
+                            {"x": 2, "y": 4}
+                        ],
+                        "LW": [
+                            {"x": 0, "y": 5},
+                            {"x": 1, "y": 7},
+                            {"x": 2, "y": 8}
+                        ],
+                        "TW": [
+                            {"x": 0, "y": 6},
+                            {"x": 1, "y": 3},
+                            {"x": 2, "y": 7}
+                        ]
+                    }
+                }
+            },
+            "fixed": {
+                "label": "FIXED",
+                "count": {
+                    "2W": 21,
+                    "LW": 17,
+                    "TW": 14
+                },
+                "chart": {
+                    "key": "Fixed",
+                    "values": {
+                        "2W": [
+                            {"x": 0, "y": 5},
+                            {"x": 1, "y": 7},
+                            {"x": 2, "y": 8}
+                        ],
+                        "LW": [
+                            {"x": 0, "y": 6},
+                            {"x": 1, "y": 5},
+                            {"x": 2, "y": 4}
+                        ],
+                        "TW": [
+                            {"x": 0, "y": 5},
+                            {"x": 1, "y": 7},
+                            {"x": 2, "y": 4}
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    "widget29": {
+        "title": "Github Issues",
+        "ranges": {
+            "TW": "This Week",
+            "LW": "Last Week",
+            "2W": "2 Weeks Ago"
+        },
+        "mainChart": [
+            {
+                "key": "My Team",
+                "values": {
+                    "2W": [
+                        {"x": "High", "y": 5},
+                        {"x": "Medium", "y": 3},
+                        {"x": "Low", "y": 4}
+                    ],
+                    "LW": [
+                        {"x": "High", "y": 5},
+                        {"x": "Medium", "y": 2},
+                        {"x": "Low", "y": 3}
+                    ],
+                    "TW": [
+                        {"x": "High", "y": 4},
+                        {"x": "Medium", "y": 3},
+                        {"x": "Low", "y": 2}
+                    ]
+                }
+            },
+            {
+                "key": "Me",
+                "values": {
+                    "2W": [
+                        {"x": "High", "y": 3},
+                        {"x": "Tue", "y": 5},
+                        {"x": "Low", "y": 2}
+                    ],
+                    "LW": [
+                        {"x": "High", "y": 3},
+                        {"x": "Medium", "y": 4},
+                        {"x": "Low", "y": 1}
+                    ],
+                    "TW": [
+                        {"x": "High", "y": 2},
+                        {"x": "Medium", "y": 2},
+                        {"x": "Low", "y": 4}
+                    ]
+                }
+            }
+        ],
+        "supporting": {
+            "created": {
+                "label": "CREATED",
+                "count": {
+                    "2W": 48,
+                    "LW": 46,
+                    "TW": 54
+                },
+                "chart": {
+                    "key": "Created",
+                    "values": {
+                        "2W": [
+                            {"x": 0, "y": 5},
+                            {"x": 1, "y": 8},
+                            {"x": 2, "y": 5}
+                        ],
+                        "LW": [
+                            {"x": 0, "y": 6},
+                            {"x": 1, "y": 3},
+                            {"x": 2, "y": 7}
+                        ],
+                        "TW": [
+                            {"x": 0, "y": 3},
+                            {"x": 1, "y": 2},
+                            {"x": 2, "y": 1}
+                        ]
+                    }
+                }
+            },
+            "closed": {
+                "label": "CLOSED",
+                "count": {
+                    "2W": 27,
+                    "LW": 31,
+                    "TW": 26
+                },
+                "chart": {
+                    "key": "Closed",
+                    "values": {
+                        "2W": [
+                            {"x": 0, "y": 3},
+                            {"x": 1, "y": 2},
+                            {"x": 2, "y": 1}
+                        ],
+                        "LW": [
+                            {"x": 0, "y": 6},
+                            {"x": 1, "y": 5},
+                            {"x": 2, "y": 4}
+                        ],
+                        "TW": [
+                            {"x": 0, "y": 6},
+                            {"x": 1, "y": 3},
+                            {"x": 2, "y": 7}
+                        ]
+                    }
+                }
+            },
+            "reOpened": {
+                "label": "RE-OPENED",
+                "count": {
+                    "2W": 4,
+                    "LW": 5,
+                    "TW": 2
+                },
+                "chart": {
+                    "key": "Re-Opened",
+                    "values": {
+                        "2W": [
+                            {"x": 0, "y": 6},
+                            {"x": 1, "y": 3},
+                            {"x": 2, "y": 7}
+                        ],
+                        "LW": [
+                            {"x": 0, "y": 5},
+                            {"x": 1, "y": 7},
+                            {"x": 2, "y": 8}
+                        ],
+                        "TW": [
+                            {"x": 0, "y": 3},
+                            {"x": 1, "y": 2},
+                            {"x": 2, "y": 1}
+                        ]
+                    }
+                }
+            },
+            "wontFix": {
+                "label": "WON'T FIX",
+                "count": {
+                    "2W": 6,
+                    "LW": 3,
+                    "TW": 4
+                },
+                "chart": {
+                    "key": "Won't Fix",
+                    "values": {
+                        "2W": [
+                            {"x": 0, "y": 5},
+                            {"x": 1, "y": 7},
+                            {"x": 2, "y": 4},
+                            {"x": 3, "y": 6},
+                            {"x": 4, "y": 5},
+                            {"x": 5, "y": 3},
+                            {"x": 6, "y": 2}
+                        ],
+                        "LW": [
+                            {"x": 0, "y": 6},
+                            {"x": 1, "y": 3},
+                            {"x": 2, "y": 7},
+                            {"x": 3, "y": 5},
+                            {"x": 4, "y": 5},
+                            {"x": 5, "y": 4},
+                            {"x": 6, "y": 7}
+                        ],
+                        "TW": [
+                            {"x": 0, "y": 6},
+                            {"x": 1, "y": 5},
+                            {"x": 2, "y": 4},
+                            {"x": 3, "y": 5},
+                            {"x": 4, "y": 7},
+                            {"x": 5, "y": 4},
+                            {"x": 6, "y": 7}
+                        ]
+                    }
+                }
+            },
+            "needsTest": {
+                "label": "NEEDS TEST",
+                "count": {
+                    "2W": 10,
+                    "LW": 7,
+                    "TW": 8
+                },
+                "chart": {
+                    "key": "Needs Test",
+                    "values": {
+                        "2W": [
+                            {"x": 0, "y": 6},
+                            {"x": 1, "y": 5},
+                            {"x": 2, "y": 4},
+                            {"x": 3, "y": 5},
+                            {"x": 4, "y": 7},
+                            {"x": 5, "y": 4},
+                            {"x": 6, "y": 7}
+                        ],
+                        "LW": [
+                            {"x": 0, "y": 5},
+                            {"x": 1, "y": 7},
+                            {"x": 2, "y": 8},
+                            {"x": 3, "y": 8},
+                            {"x": 4, "y": 6},
+                            {"x": 5, "y": 4},
+                            {"x": 6, "y": 1}
+                        ],
+                        "TW": [
+                            {"x": 0, "y": 6},
+                            {"x": 1, "y": 3},
+                            {"x": 2, "y": 7},
+                            {"x": 3, "y": 5},
+                            {"x": 4, "y": 5},
+                            {"x": 5, "y": 4},
+                            {"x": 6, "y": 7}
+                        ]
+                    }
+                }
+            },
+            "fixed": {
+                "label": "FIXED",
+                "count": {
+                    "2W": 21,
+                    "LW": 17,
+                    "TW": 14
+                },
+                "chart": {
+                    "key": "Fixed",
+                    "values": {
+                        "2W": [
+                            {"x": 0, "y": 5},
+                            {"x": 1, "y": 7},
+                            {"x": 2, "y": 8},
+                            {"x": 3, "y": 8},
+                            {"x": 4, "y": 6},
+                            {"x": 5, "y": 4},
+                            {"x": 6, "y": 1}
+                        ],
+                        "LW": [
+                            {"x": 0, "y": 6},
+                            {"x": 1, "y": 5},
+                            {"x": 2, "y": 4},
+                            {"x": 3, "y": 5},
+                            {"x": 4, "y": 7},
+                            {"x": 5, "y": 4},
+                            {"x": 6, "y": 7}
+                        ],
+                        "TW": [
+                            {"x": 0, "y": 5},
+                            {"x": 1, "y": 7},
+                            {"x": 2, "y": 4},
+                            {"x": 3, "y": 6},
+                            {"x": 4, "y": 5},
+                            {"x": 5, "y": 3},
+                            {"x": 6, "y": 2}
+                        ]
+                    }
+                }
+            }
+        }
+    },
+	"widget30": {
+        "title": "Github Issues",
+        "ranges": {
+            "TW": "This Week",
+            "LW": "Last Week",
+            "2W": "2 Weeks Ago"
+        },
+        "mainChart": [
+            {
+                "key": "My Team",
+                "values": {
+                    "2W": [
+                        {"x": "High", "y": 5},
+                        {"x": "Medium", "y": 3},
+                        {"x": "Low", "y": 4}
+                    ],
+                    "LW": [
+                        {"x": "High", "y": 5},
+                        {"x": "Medium", "y": 2},
+                        {"x": "Low", "y": 3}
+                    ],
+                    "TW": [
+                        {"x": "High", "y": 4},
+                        {"x": "Medium", "y": 3},
+                        {"x": "Low", "y": 2}
+                    ]
+                }
+            },
+            {
+                "key": "Me",
+                "values": {
+                    "2W": [
+                        {"x": "High", "y": 3},
+                        {"x": "Tue", "y": 5},
+                        {"x": "Low", "y": 2}
+                    ],
+                    "LW": [
+                        {"x": "High", "y": 3},
+                        {"x": "Medium", "y": 4},
+                        {"x": "Low", "y": 1}
+                    ],
+                    "TW": [
+                        {"x": "High", "y": 2},
+                        {"x": "Medium", "y": 2},
+                        {"x": "Low", "y": 4}
+                    ]
+                }
+            }
+        ],
+        "supporting": {
+            "created": {
+                "label": "CREATED",
+                "count": {
+                    "2W": 48,
+                    "LW": 46,
+                    "TW": 54
+                },
+                "chart": {
+                    "key": "Created",
+                    "values": {
+                        "2W": [
+                            {"x": 0, "y": 5},
+                            {"x": 1, "y": 8},
+                            {"x": 2, "y": 5}
+                        ],
+                        "LW": [
+                            {"x": 0, "y": 6},
+                            {"x": 1, "y": 3},
+                            {"x": 2, "y": 7}
+                        ],
+                        "TW": [
+                            {"x": 0, "y": 3},
+                            {"x": 1, "y": 2},
+                            {"x": 2, "y": 1}
+                        ]
+                    }
+                }
+            },
+            "closed": {
+                "label": "CLOSED",
+                "count": {
+                    "2W": 27,
+                    "LW": 31,
+                    "TW": 26
+                },
+                "chart": {
+                    "key": "Closed",
+                    "values": {
+                        "2W": [
+                            {"x": 0, "y": 3},
+                            {"x": 1, "y": 2},
+                            {"x": 2, "y": 1}
+                        ],
+                        "LW": [
+                            {"x": 0, "y": 6},
+                            {"x": 1, "y": 5},
+                            {"x": 2, "y": 4}
+                        ],
+                        "TW": [
+                            {"x": 0, "y": 6},
+                            {"x": 1, "y": 3},
+                            {"x": 2, "y": 7}
+                        ]
+                    }
+                }
+            },
+            "reOpened": {
+                "label": "RE-OPENED",
+                "count": {
+                    "2W": 4,
+                    "LW": 5,
+                    "TW": 2
+                },
+                "chart": {
+                    "key": "Re-Opened",
+                    "values": {
+                        "2W": [
+                            {"x": 0, "y": 6},
+                            {"x": 1, "y": 3},
+                            {"x": 2, "y": 7}
+                        ],
+                        "LW": [
+                            {"x": 0, "y": 5},
+                            {"x": 1, "y": 7},
+                            {"x": 2, "y": 8}
+                        ],
+                        "TW": [
+                            {"x": 0, "y": 3},
+                            {"x": 1, "y": 2},
+                            {"x": 2, "y": 1}
+                        ]
+                    }
+                }
+            },
+            "wontFix": {
+                "label": "WON'T FIX",
+                "count": {
+                    "2W": 6,
+                    "LW": 3,
+                    "TW": 4
+                },
+                "chart": {
+                    "key": "Won't Fix",
+                    "values": {
+                        "2W": [
+                            {"x": 0, "y": 5},
+                            {"x": 1, "y": 7},
+                            {"x": 2, "y": 4},
+                            {"x": 3, "y": 6},
+                            {"x": 4, "y": 5},
+                            {"x": 5, "y": 3},
+                            {"x": 6, "y": 2}
+                        ],
+                        "LW": [
+                            {"x": 0, "y": 6},
+                            {"x": 1, "y": 3},
+                            {"x": 2, "y": 7},
+                            {"x": 3, "y": 5},
+                            {"x": 4, "y": 5},
+                            {"x": 5, "y": 4},
+                            {"x": 6, "y": 7}
+                        ],
+                        "TW": [
+                            {"x": 0, "y": 6},
+                            {"x": 1, "y": 5},
+                            {"x": 2, "y": 4},
+                            {"x": 3, "y": 5},
+                            {"x": 4, "y": 7},
+                            {"x": 5, "y": 4},
+                            {"x": 6, "y": 7}
+                        ]
+                    }
+                }
+            },
+            "needsTest": {
+                "label": "NEEDS TEST",
+                "count": {
+                    "2W": 10,
+                    "LW": 7,
+                    "TW": 8
+                },
+                "chart": {
+                    "key": "Needs Test",
+                    "values": {
+                        "2W": [
+                            {"x": 0, "y": 6},
+                            {"x": 1, "y": 5},
+                            {"x": 2, "y": 4},
+                            {"x": 3, "y": 5},
+                            {"x": 4, "y": 7},
+                            {"x": 5, "y": 4},
+                            {"x": 6, "y": 7}
+                        ],
+                        "LW": [
+                            {"x": 0, "y": 5},
+                            {"x": 1, "y": 7},
+                            {"x": 2, "y": 8},
+                            {"x": 3, "y": 8},
+                            {"x": 4, "y": 6},
+                            {"x": 5, "y": 4},
+                            {"x": 6, "y": 1}
+                        ],
+                        "TW": [
+                            {"x": 0, "y": 6},
+                            {"x": 1, "y": 3},
+                            {"x": 2, "y": 7},
+                            {"x": 3, "y": 5},
+                            {"x": 4, "y": 5},
+                            {"x": 5, "y": 4},
+                            {"x": 6, "y": 7}
+                        ]
+                    }
+                }
+            },
+            "fixed": {
+                "label": "FIXED",
+                "count": {
+                    "2W": 21,
+                    "LW": 17,
+                    "TW": 14
+                },
+                "chart": {
+                    "key": "Fixed",
+                    "values": {
+                        "2W": [
+                            {"x": 0, "y": 5},
+                            {"x": 1, "y": 7},
+                            {"x": 2, "y": 8},
+                            {"x": 3, "y": 8},
+                            {"x": 4, "y": 6},
+                            {"x": 5, "y": 4},
+                            {"x": 6, "y": 1}
+                        ],
+                        "LW": [
+                            {"x": 0, "y": 6},
+                            {"x": 1, "y": 5},
+                            {"x": 2, "y": 4},
+                            {"x": 3, "y": 5},
+                            {"x": 4, "y": 7},
+                            {"x": 5, "y": 4},
+                            {"x": 6, "y": 7}
+                        ],
+                        "TW": [
+                            {"x": 0, "y": 5},
+                            {"x": 1, "y": 7},
+                            {"x": 2, "y": 4},
+                            {"x": 3, "y": 6},
+                            {"x": 4, "y": 5},
+                            {"x": 5, "y": 3},
+                            {"x": 6, "y": 2}
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    "widget25": {
+        "title": "Github Issues",
+        "ranges": {
+            "TW": "This Week",
+            "LW": "Last Week",
+            "2W": "2 Weeks Ago"
+        },
+        "mainChart": [
+            {
+                "key": "Closed Issues",
+                "values": {
+                    "2W": [
+                        {"x": "Mon", "y": 9},
+                        {"x": "Tue", "y": 12},
+                        {"x": "Wed", "y": 9},
+                        {"x": "Thu", "y": 12},
+                        {"x": "Fri", "y": 7},
+                        {"x": "Sat", "y": 8},
+                        {"x": "Sun", "y": 16}
+                    ],
+                    "LW": [
+                        {"x": "Mon", "y": 12},
+                        {"x": "Tue", "y": 8},
+                        {"x": "Wed", "y": 7},
+                        {"x": "Thu", "y": 13},
+                        {"x": "Fri", "y": 7},
+                        {"x": "Sat", "y": 6},
+                        {"x": "Sun", "y": 10}
+                    ],
+                    "TW": [
+                        {"x": "Mon", "y": 11},
+                        {"x": "Tue", "y": 10},
+                        {"x": "Wed", "y": 8},
+                        {"x": "Thu", "y": 11},
+                        {"x": "Fri", "y": 8},
+                        {"x": "Sat", "y": 10},
+                        {"x": "Sun", "y": 17}
+                    ]
+                }
+            },
+            {
+                "key": "Issues",
+                "values": {
+                    "2W": [
+                        {"x": "Mon", "y": 37},
+                        {"x": "Tue", "y": 32},
+                        {"x": "Wed", "y": 39},
+                        {"x": "Thu", "y": 27},
+                        {"x": "Fri", "y": 18},
+                        {"x": "Sat", "y": 24},
+                        {"x": "Sun", "y": 20}
+                    ],
+                    "LW": [
+                        {"x": "Mon", "y": 37},
+                        {"x": "Tue", "y": 24},
+                        {"x": "Wed", "y": 51},
+                        {"x": "Thu", "y": 31},
+                        {"x": "Fri", "y": 29},
+                        {"x": "Sat", "y": 17},
+                        {"x": "Sun", "y": 31}
+                    ],
+                    "TW": [
+                        {"x": "Mon", "y": 42},
+                        {"x": "Tue", "y": 28},
+                        {"x": "Wed", "y": 43},
+                        {"x": "Thu", "y": 34},
+                        {"x": "Fri", "y": 20},
+                        {"x": "Sat", "y": 25},
+                        {"x": "Sun", "y": 22}
+                    ]
+                }
+            }
+        ],
+        "supporting": {
+            "created": {
+                "label": "CREATED",
+                "count": {
+                    "2W": 48,
+                    "LW": 46,
+                    "TW": 54
+                },
+                "chart": {
+                    "key": "Created",
+                    "values": {
+                        "2W": [
+                            {"x": 0, "y": 5},
+                            {"x": 1, "y": 8},
+                            {"x": 2, "y": 5},
+                            {"x": 3, "y": 6},
+                            {"x": 4, "y": 7},
+                            {"x": 5, "y": 8},
+                            {"x": 6, "y": 7}
+                        ],
+                        "LW": [
+                            {"x": 0, "y": 6},
+                            {"x": 1, "y": 3},
+                            {"x": 2, "y": 7},
+                            {"x": 3, "y": 5},
+                            {"x": 4, "y": 5},
+                            {"x": 5, "y": 4},
+                            {"x": 6, "y": 7}
+                        ],
+                        "TW": [
+                            {"x": 0, "y": 3},
+                            {"x": 1, "y": 2},
+                            {"x": 2, "y": 1},
+                            {"x": 3, "y": 4},
+                            {"x": 4, "y": 8},
+                            {"x": 5, "y": 8},
+                            {"x": 6, "y": 4}
+                        ]
+                    }
+                }
+            },
+            "closed": {
+                "label": "CLOSED",
+                "count": {
+                    "2W": 27,
+                    "LW": 31,
+                    "TW": 26
+                },
+                "chart": {
+                    "key": "Closed",
+                    "values": {
+                        "2W": [
+                            {"x": 0, "y": 3},
+                            {"x": 1, "y": 2},
+                            {"x": 2, "y": 1},
+                            {"x": 3, "y": 4},
+                            {"x": 4, "y": 8},
+                            {"x": 5, "y": 8},
+                            {"x": 6, "y": 4}
+                        ],
+                        "LW": [
+                            {"x": 0, "y": 6},
+                            {"x": 1, "y": 5},
+                            {"x": 2, "y": 4},
+                            {"x": 3, "y": 5},
+                            {"x": 4, "y": 7},
+                            {"x": 5, "y": 4},
+                            {"x": 6, "y": 7}
+                        ],
+                        "TW": [
+                            {"x": 0, "y": 6},
+                            {"x": 1, "y": 3},
+                            {"x": 2, "y": 7},
+                            {"x": 3, "y": 5},
+                            {"x": 4, "y": 5},
+                            {"x": 5, "y": 4},
+                            {"x": 6, "y": 7}
+                        ]
+                    }
+                }
+            },
+            "reOpened": {
+                "label": "RE-OPENED",
+                "count": {
+                    "2W": 4,
+                    "LW": 5,
+                    "TW": 2
+                },
+                "chart": {
+                    "key": "Re-Opened",
+                    "values": {
+                        "2W": [
+                            {"x": 0, "y": 6},
+                            {"x": 1, "y": 3},
+                            {"x": 2, "y": 7},
+                            {"x": 3, "y": 5},
+                            {"x": 4, "y": 5},
+                            {"x": 5, "y": 4},
+                            {"x": 6, "y": 7}
+                        ],
+                        "LW": [
+                            {"x": 0, "y": 5},
+                            {"x": 1, "y": 7},
+                            {"x": 2, "y": 8},
+                            {"x": 3, "y": 8},
+                            {"x": 4, "y": 6},
+                            {"x": 5, "y": 4},
+                            {"x": 6, "y": 1}
+                        ],
+                        "TW": [
+                            {"x": 0, "y": 3},
+                            {"x": 1, "y": 2},
+                            {"x": 2, "y": 1},
+                            {"x": 3, "y": 4},
+                            {"x": 4, "y": 8},
+                            {"x": 5, "y": 8},
+                            {"x": 6, "y": 4}
+                        ]
+                    }
+                }
+            },
+            "wontFix": {
+                "label": "WON'T FIX",
+                "count": {
+                    "2W": 6,
+                    "LW": 3,
+                    "TW": 4
+                },
+                "chart": {
+                    "key": "Won't Fix",
+                    "values": {
+                        "2W": [
+                            {"x": 0, "y": 5},
+                            {"x": 1, "y": 7},
+                            {"x": 2, "y": 4},
+                            {"x": 3, "y": 6},
+                            {"x": 4, "y": 5},
+                            {"x": 5, "y": 3},
+                            {"x": 6, "y": 2}
+                        ],
+                        "LW": [
+                            {"x": 0, "y": 6},
+                            {"x": 1, "y": 3},
+                            {"x": 2, "y": 7},
+                            {"x": 3, "y": 5},
+                            {"x": 4, "y": 5},
+                            {"x": 5, "y": 4},
+                            {"x": 6, "y": 7}
+                        ],
+                        "TW": [
+                            {"x": 0, "y": 6},
+                            {"x": 1, "y": 5},
+                            {"x": 2, "y": 4},
+                            {"x": 3, "y": 5},
+                            {"x": 4, "y": 7},
+                            {"x": 5, "y": 4},
+                            {"x": 6, "y": 7}
+                        ]
+                    }
+                }
+            },
+            "needsTest": {
+                "label": "NEEDS TEST",
+                "count": {
+                    "2W": 10,
+                    "LW": 7,
+                    "TW": 8
+                },
+                "chart": {
+                    "key": "Needs Test",
+                    "values": {
+                        "2W": [
+                            {"x": 0, "y": 6},
+                            {"x": 1, "y": 5},
+                            {"x": 2, "y": 4},
+                            {"x": 3, "y": 5},
+                            {"x": 4, "y": 7},
+                            {"x": 5, "y": 4},
+                            {"x": 6, "y": 7}
+                        ],
+                        "LW": [
+                            {"x": 0, "y": 5},
+                            {"x": 1, "y": 7},
+                            {"x": 2, "y": 8},
+                            {"x": 3, "y": 8},
+                            {"x": 4, "y": 6},
+                            {"x": 5, "y": 4},
+                            {"x": 6, "y": 1}
+                        ],
+                        "TW": [
+                            {"x": 0, "y": 6},
+                            {"x": 1, "y": 3},
+                            {"x": 2, "y": 7},
+                            {"x": 3, "y": 5},
+                            {"x": 4, "y": 5},
+                            {"x": 5, "y": 4},
+                            {"x": 6, "y": 7}
+                        ]
+                    }
+                }
+            },
+            "fixed": {
+                "label": "FIXED",
+                "count": {
+                    "2W": 21,
+                    "LW": 17,
+                    "TW": 14
+                },
+                "chart": {
+                    "key": "Fixed",
+                    "values": {
+                        "2W": [
+                            {"x": 0, "y": 5},
+                            {"x": 1, "y": 7},
+                            {"x": 2, "y": 8},
+                            {"x": 3, "y": 8},
+                            {"x": 4, "y": 6},
+                            {"x": 5, "y": 4},
+                            {"x": 6, "y": 1}
+                        ],
+                        "LW": [
+                            {"x": 0, "y": 6},
+                            {"x": 1, "y": 5},
+                            {"x": 2, "y": 4},
+                            {"x": 3, "y": 5},
+                            {"x": 4, "y": 7},
+                            {"x": 5, "y": 4},
+                            {"x": 6, "y": 7}
+                        ],
+                        "TW": [
+                            {"x": 0, "y": 5},
+                            {"x": 1, "y": 7},
+                            {"x": 2, "y": 4},
+                            {"x": 3, "y": 6},
+                            {"x": 4, "y": 5},
+                            {"x": 5, "y": 3},
+                            {"x": 6, "y": 2}
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    "widget6": {
+        "title": "Average Number of cases submitted",
+        "ranges": {
+            "LW2": "Last one month",
+            "TW": "Last 3 months",
+            "LW": "Last 6 months",
+            "2W": "Last 9 months",
+			"LW1": "Last 12 months"
+        },
+        "mainChart": [
+            {
+                "label": "High Risk",
+                "values": {
+                    "2W": 18,
+                    "LW": 19,
+                    "TW": 15,
+					"LW1": 10,
+			"LW2": 12,
+			"LW3": 15,
+			"LW4": 16,
+			"LW5": 16,
+			"LW6": 30,
+			"LW7": 23,
+			"LW8": 16,
+			"LW9": 14
+                }
+            },
+            {
+                "label": "Med Risk",
+                "values": {
+                    "2W": 17,
+                    "LW": 16,
+                    "TW": 20,
+					"LW1": 10,
+			"LW2": 12,
+			"LW3": 15,
+			"LW4": 16,
+			"LW5": 16,
+			"LW6": 30,
+			"LW7": 23,
+			"LW8": 16,
+			"LW9": 14
+                }
+            },
+            {
+                "label": "Low Risk",
+                "values": {
+                    "2W": 40,
+                    "LW": 42,
+                    "TW": 38,
+					"LW1": 36,
+			"LW2": 34,
+			"LW3": 78,
+			"LW4": 75,
+			"LW5": 34,
+			"LW6": 32,
+			"LW7": 19,
+			"LW8": 28,
+			"LW9": 30
+                }
+            }
+        ],
+		"mainChart1": [
+            {
+                "label": "High Risk",
+                "values": {
+                    "2W": 18,
+                    "LW": 19,
+                    "TW": 15,
+					"LW1": 10,
+			"LW2": 12,
+			"LW3": 15,
+			"LW4": 16,
+			"LW5": 16,
+			"LW6": 30,
+			"LW7": 23,
+			"LW8": 16,
+			"LW9": 14
+                }
+            },
+            {
+                "label": "Med Risk",
+                "values": {
+                    "2W": 30,
+                    "LW": 50,
+                    "TW": 30,
+					"LW1": 56,
+			"LW2": 44,
+			"LW3": 23,
+			"LW4": 67,
+			"LW5": 86,
+			"LW6": 98,
+			"LW7": 23,
+			"LW8": 34,
+			"LW9": 85
+                }
+            },
+            {
+                "label": "Low Risk",
+                "values": {
+                    "2W": 40,
+                    "LW": 42,
+                    "TW": 38,
+					"LW1": 36,
+			"LW2": 34,
+			"LW3": 78,
+			"LW4": 75,
+			"LW5": 34,
+			"LW6": 32,
+			"LW7": 19,
+			"LW8": 28,
+			"LW9": 30
+                }
+            }
+        ],
+        "footerLeft": {
+            "title": "No. of cases submitted/Week-Self",
+            "count": {
+				"LW2": 5,
+                "2W": 4,
+                "LW": 5,
+                "TW": 5,
+				"LW1":5
+            }
+        },
+        "footerRight": {
+            "title": "No. of cases submitted/Week-Team",
+            "count": {
+				"LW2": 3,
+                "2W": 3,
+                "LW": 5,
+                "TW": 4,
+				"LW1":5
+            }
+        }
+    },
+	"widget20": {
+        "title": "Top 5 error categories",
+        "ranges": {
+            "LW2": "Last one month",
+            "TW": "Last 3 months",
+            "LW": "Last 6 months",
+            "2W": "Last 9 months",
+			"LW1": "Last 12 months"
+			
+			
+        },
+		"title": "Top 5 error categories",
+		"pages": {
+            "1": "Customer Information Program",
+            "2": "Standard Due Diligence - A",
+            "3": "Local Due Diligence",
+            "4": "Enhanced Due Diligence",
+			"5": "Standard Due Diligence - B"
+        },
+        "mainChart": [
+            {
+                "label": "cat 1",
+                "values": {
+                    "2W": 65,
+                    "LW": 53,
+                    "TW": 76,
+					"LW1": 76,
+			"LW2": 76,
+			"LW3": 87,
+			"LW4": 98,
+			"LW5": 54,
+			"LW6": 76,
+			"LW7": 34,
+			"LW8": 75,
+			"LW9": 23
+                }
+            },
+            {
+                "label": "cat 2",
+                "values": {
+                    "2W": 17,
+                    "LW": 16,
+                    "TW": 20,
+					"LW1": 10,
+			"LW2": 12,
+			"LW3": 15,
+			"LW4": 16,
+			"LW5": 16,
+			"LW6": 30,
+			"LW7": 23,
+			"LW8": 16,
+			"LW9": 14
+                }
+            },
+            {
+                "label": "cat 3",
+                "values": {
+                    "2W": 40,
+                    "LW": 42,
+                    "TW": 38,
+					"LW1": 36,
+			"LW2": 34,
+			"LW3": 78,
+			"LW4": 75,
+			"LW5": 34,
+			"LW6": 32,
+			"LW7": 19,
+			"LW8": 28,
+			"LW9": 30
+                }
+            },
+			 {
+                "label": "cat 4",
+                "values": {
+                    "2W": 40,
+                    "LW": 42,
+                    "TW": 38,
+					"LW1": 36,
+			"LW2": 34,
+			"LW3": 78,
+			"LW4": 75,
+			"LW5": 34,
+			"LW6": 32,
+			"LW7": 19,
+			"LW8": 28,
+			"LW9": 30
+                }
+            },
+			 {
+                "label": "cat 5",
+                "values": {
+                    "2W": 40,
+                    "LW": 42,
+                    "TW": 38,
+					"LW1": 36,
+			"LW2": 34,
+			"LW3": 78,
+			"LW4": 75,
+			"LW5": 34,
+			"LW6": 32,
+			"LW7": 19,
+			"LW8": 28,
+			"LW9": 30
+                }
+            }
+        ],
+		"mainChart1": [
+            {
+                "label": "Major",
+                "values": {
+                    "2W": 18,
+                    "LW": 19,
+                    "TW": 15,
+					"LW1": 10,
+			"LW2": 12,
+			"LW3": 15,
+			"LW4": 16,
+			"LW5": 16,
+			"LW6": 30,
+			"LW7": 23,
+			"LW8": 16,
+			"LW9": 14
+                }
+            },
+            {
+                "label": "Minor",
+                "values": {
+                    "2W": 30,
+                    "LW": 50,
+                    "TW": 30,
+					"LW1": 56,
+			"LW2": 44,
+			"LW3": 23,
+			"LW4": 67,
+			"LW5": 86,
+			"LW6": 98,
+			"LW7": 23,
+			"LW8": 34,
+			"LW9": 85
+                }
+            },
+            {
+                "label": "Not an issue",
+                "values": {
+                    "2W": 40,
+                    "LW": 42,
+                    "TW": 38,
+					"LW1": 36,
+			"LW2": 34,
+			"LW3": 78,
+			"LW4": 75,
+			"LW5": 34,
+			"LW6": 32,
+			"LW7": 19,
+			"LW8": 28,
+			"LW9": 30
+                }
+            }
+        ],
+        "footerLeft": {
+            "title": "No. of errors per case (Self)",
+            "count": {
+                "2W": 3,
+                "LW": 4,
+                "TW": 2
+            }
+        },
+        "footerRight": {
+            "title": "No. of errors per case (Team)",
+            "count": {
+                "2W": 5,
+                "LW": 4,
+                "TW": 2
+            }
+        }
+    },
+	"widget18": {
+        "title": "Average Number of errors per profile",
+        "ranges": {
+		"LW2": "Last one month",
+            "TW": "Last 3 months",
+            "LW": "Last 6 months",
+            "2W": "Last 9 months",
+			"LW1": "Last 12 months"
+			
+		},
+        "mainChart": [
+            {
+                "label": "Major",
+                "values": {
+                    "2W": 65,
+                    "LW": 53,
+                    "TW": 76,
+					"LW1": 76,
+			"LW2": 76,
+			"LW3": 87,
+			"LW4": 98,
+			"LW5": 54,
+			"LW6": 76,
+			"LW7": 34,
+			"LW8": 75,
+			"LW9": 23
+                }
+            },
+            {
+                "label": "Minor",
+                "values": {
+                    "2W": 17,
+                    "LW": 16,
+                    "TW": 20,
+					"LW1": 10,
+			"LW2": 12,
+			"LW3": 15,
+			"LW4": 16,
+			"LW5": 16,
+			"LW6": 30,
+			"LW7": 23,
+			"LW8": 16,
+			"LW9": 14
+                }
+            },
+            {
+                "label": "Not an issue",
+                "values": {
+                    "2W": 40,
+                    "LW": 42,
+                    "TW": 38,
+					"LW1": 36,
+			"LW2": 34,
+			"LW3": 78,
+			"LW4": 75,
+			"LW5": 34,
+			"LW6": 32,
+			"LW7": 19,
+			"LW8": 28,
+			"LW9": 30
+                }
+            }
+        ],
+		"mainChart1": [
+            {
+                "label": "Major",
+                "values": {
+                    "2W": 18,
+                    "LW": 19,
+                    "TW": 15,
+					"LW1": 10,
+			"LW2": 12,
+			"LW3": 15,
+			"LW4": 16,
+			"LW5": 16,
+			"LW6": 30,
+			"LW7": 23,
+			"LW8": 16,
+			"LW9": 14
+                }
+            },
+            {
+                "label": "Minor",
+                "values": {
+                    "2W": 30,
+                    "LW": 50,
+                    "TW": 30,
+					"LW1": 56,
+			"LW2": 44,
+			"LW3": 23,
+			"LW4": 67,
+			"LW5": 86,
+			"LW6": 98,
+			"LW7": 23,
+			"LW8": 34,
+			"LW9": 85
+                }
+            },
+            {
+                "label": "Not an issue",
+                "values": {
+                    "2W": 40,
+                    "LW": 42,
+                    "TW": 38,
+					"LW1": 36,
+			"LW2": 34,
+			"LW3": 78,
+			"LW4": 75,
+			"LW5": 34,
+			"LW6": 32,
+			"LW7": 19,
+			"LW8": 28,
+			"LW9": 30
+                }
+            }
+        ],
+        "footerLeft": {
+            "title": "No. of errors per case (Self)",
+            "count": {
+                "2W": 2,
+                "LW": 3,
+                "TW": 5
+            }
+        },
+        "footerRight": {
+            "title": "No. of errors per case (Team)",
+            "count": {
+                "2W": 5,
+                "LW": 2,
+                "TW": 4
+            }
+        }
+    },
+    "widget7": {
+        "title": "Schedule",
+        "ranges": {
+            "T": "Today",
+            "TM": "Tomorrow"
+        },
+        "schedule": {
+            "T": [
+                {
+                    "title": "Group Meeting",
+                    "time": "In 32 minutes",
+                    "location": "Room 1B"
+                },
+                {
+                    "title": "Coffee Break",
+                    "time": "10:30 AM"
+                },
+                {
+                    "title": "Public Beta Release",
+                    "time": "11:00 AM"
+                },
+                {
+                    "title": "Lunch",
+                    "time": "12:10 PM"
+                },
+                {
+                    "title": "Dinner with David",
+                    "time": "17:30 PM"
+                },
+                {
+                    "title": "Jane's Birthday Party",
+                    "time": "19:30 PM"
+                },
+                {
+                    "title": "Overseer's Retirement Party",
+                    "time": "21:30 PM"
+                }
+            ],
+            "TM": [
+                {
+                    "title": "Marketing Meeting",
+                    "time": "09:00 AM"
+                },
+                {
+                    "title": "Public Announcement",
+                    "time": "11:00 AM"
+                },
+                {
+                    "title": "Lunch",
+                    "time": "12:10 PM"
+                },
+                {
+                    "title": "Meeting with Beta Testers",
+                    "time": "15:00 AM"
+                },
+                {
+                    "title": "Live Stream",
+                    "time": "17:30 PM"
+                },
+                {
+                    "title": "Release Party",
+                    "time": "19:30 PM"
+                },
+                {
+                    "title": "CEO's Party",
+                    "time": "22:30 PM"
+                }
+            ]
+        }
+    },
+    "widget8": {
+        "title": "Budget Distribution",
+        "mainChart": [
+            {
+                "label": "Wireframing",
+                "value": 12
+            },
+            {
+                "label": "Design",
+                "value": 17
+            },
+            {
+                "label": "Coding",
+                "value": 28
+            },
+            {
+                "label": "Marketing",
+                "value": 25
+            },
+            {
+                "label": "Extra",
+                "value": 15
+            }
+        ]
+    },
+    "widget9": {
+        "title": "Spent",
+        "ranges": {
+            "TW": "This Week",
+            "LW": "Last Week",
+            "2W": "2 Weeks Ago"
+        },
+        "weeklySpent": {
+            "title": "WEEKLY SPENT",
+            "count": {
+                "2W": "2,682.85",
+                "LW": "1,445.34",
+                "TW": "3,630.15"
+            },
+            "chart": {
+                "label": "Weekly Spent",
+                "values": {
+                    "2W": [
+                        {"x": 0, "y": 6},
+                        {"x": 1, "y": 1},
+                        {"x": 2, "y": 3},
+                        {"x": 3, "y": 4},
+                        {"x": 4, "y": 5},
+                        {"x": 5, "y": 5},
+                        {"x": 6, "y": 2}
+                    ],
+                    "LW": [
+                        {"x": 0, "y": 4},
+                        {"x": 1, "y": 6},
+                        {"x": 2, "y": 2},
+                        {"x": 3, "y": 2},
+                        {"x": 4, "y": 1},
+                        {"x": 5, "y": 3},
+                        {"x": 6, "y": 4}
+                    ],
+                    "TW": [
+                        {"x": 0, "y": 2},
+                        {"x": 1, "y": 6},
+                        {"x": 2, "y": 5},
+                        {"x": 3, "y": 4},
+                        {"x": 4, "y": 5},
+                        {"x": 5, "y": 3},
+                        {"x": 6, "y": 6}
+                    ]
+                }
+            }
+        },
+        "totalSpent": {
+            "title": "TOTAL SPENT",
+            "count": {
+                "2W": "29,682.85",
+                "LW": "31,128.19",
+                "TW": "34,758.34"
+            },
+            "chart": {
+                "label": "Spent",
+                "values": {
+                    "2W": [
+                        {"x": 0, "y": 3},
+                        {"x": 1, "y": 2},
+                        {"x": 2, "y": 2},
+                        {"x": 3, "y": 4},
+                        {"x": 4, "y": 7},
+                        {"x": 5, "y": 7},
+                        {"x": 6, "y": 4}
+                    ],
+                    "LW": [
+                        {"x": 0, "y": 5},
+                        {"x": 1, "y": 7},
+                        {"x": 2, "y": 8},
+                        {"x": 3, "y": 8},
+                        {"x": 4, "y": 6},
+                        {"x": 5, "y": 4},
+                        {"x": 6, "y": 1}
+                    ],
+                    "TW": [
+                        {"x": 0, "y": 6},
+                        {"x": 1, "y": 3},
+                        {"x": 2, "y": 7},
+                        {"x": 3, "y": 5},
+                        {"x": 4, "y": 5},
+                        {"x": 5, "y": 4},
+                        {"x": 6, "y": 7}
+                    ]
+                }
+            }
+        },
+        "remaining": {
+            "title": "REMAINING",
+            "count": {
+                "2W": "94.317,15",
+                "LW": "92.871,81",
+                "TW": "89.241,66"
+            },
+            "chart": {
+                "label": "Remaining",
+                "values": {
+                    "2W": [
+                        {"x": 0, "y": 1},
+                        {"x": 1, "y": 4},
+                        {"x": 2, "y": 5},
+                        {"x": 3, "y": 7},
+                        {"x": 4, "y": 8},
+                        {"x": 5, "y": 2},
+                        {"x": 6, "y": 4}
+                    ],
+                    "LW": [
+                        {"x": 0, "y": 3},
+                        {"x": 1, "y": 2},
+                        {"x": 2, "y": 1},
+                        {"x": 3, "y": 4},
+                        {"x": 4, "y": 8},
+                        {"x": 5, "y": 8},
+                        {"x": 6, "y": 4}
+                    ],
+                    "TW": [
+                        {"x": 0, "y": 2},
+                        {"x": 1, "y": 4},
+                        {"x": 2, "y": 8},
+                        {"x": 3, "y": 6},
+                        {"x": 4, "y": 2},
+                        {"x": 5, "y": 5},
+                        {"x": 6, "y": 1}
+                    ]
+                }
+            }
+        },
+        "totalRemaining": {
+            "title": "TOTAL BUDGET",
+            "count": "124.000,00"
+        },
+        "totalBudget": {
+            "title": "TOTAL BUDGET",
+            "count": "124.000,00"
+        }
+    },
+    "widget10": {
+        "title": "Budget Details",
+        "table": {
+            "columns": [
+                {
+                    "title": "Budget Type"
+                },
+                {
+                    "title": "Total Budget"
+                },
+                {
+                    "title": "Spent ($)"
+                },
+                {
+                    "title": "Spent (%)"
+                },
+                {
+                    "title": "Remaining ($)"
+                },
+                {
+                    "title": "Remaining (%)"
+                }
+            ],
+            "rows": [
+                [
+                    {
+                        "value": "Wireframing",
+                        "classes": "text-boxed m-0 deep-orange-bg white-fg",
+                        "icon": ""
+                    },
+                    {
+                        "value": "$14,880.00",
+                        "classes": "text-bold",
+                        "icon": ""
+                    },
+                    {
+                        "value": "$14,000.00",
+                        "classes": "",
+                        "icon": ""
+                    },
+                    {
+                        "value": "%94.08",
+                        "classes": "red-fg",
+                        "icon": "icon icon-trending-up s14 red-fg"
+                    },
+                    {
+                        "value": "$880.00",
+                        "classes": "",
+                        "icon": ""
+                    },
+                    {
+                        "value": "%5.92",
+                        "classes": "",
+                        "icon": ""
+                    }
+                ],
+                [
+                    {
+                        "value": "Design",
+                        "classes": "text-boxed m-0 purple-bg white-fg",
+                        "icon": ""
+                    },
+                    {
+                        "value": "$21,080.00",
+                        "classes": "text-bold",
+                        "icon": ""
+                    },
+                    {
+                        "value": "$17,240.34",
+                        "classes": "",
+                        "icon": ""
+                    },
+                    {
+                        "value": "%81.78",
+                        "classes": "red-fg",
+                        "icon": "icon icon-trending-up s14 red-fg"
+                    },
+                    {
+                        "value": "$3,839.66",
+                        "classes": "",
+                        "icon": ""
+                    },
+                    {
+                        "value": "%18.22",
+                        "classes": "",
+                        "icon": ""
+                    }
+                ],
+                [
+                    {
+                        "value": "Coding",
+                        "classes": "text-boxed m-0 light-blue-bg white-fg",
+                        "icon": ""
+                    },
+                    {
+                        "value": "$34,720.00",
+                        "classes": "text-bold",
+                        "icon": ""
+                    },
+                    {
+                        "value": "$3,518.00",
+                        "classes": "",
+                        "icon": ""
+                    },
+                    {
+                        "value": "%10.13",
+                        "classes": "green-fg",
+                        "icon": "icon icon-trending-down s14 green-fg"
+                    },
+                    {
+                        "value": "$31,202.00",
+                        "classes": "",
+                        "icon": ""
+                    },
+                    {
+                        "value": "%89.87",
+                        "classes": "",
+                        "icon": ""
+                    }
+                ],
+                [
+                    {
+                        "value": "Marketing",
+                        "classes": "text-boxed m-0 pink-bg white-fg",
+                        "icon": ""
+                    },
+                    {
+                        "value": "$34,720.00",
+                        "classes": "text-bold",
+                        "icon": ""
+                    },
+                    {
+                        "value": "$0.00",
+                        "classes": "",
+                        "icon": ""
+                    },
+                    {
+                        "value": "%0.00",
+                        "classes": "green-fg",
+                        "icon": "icon icon-minus s14 green-fg"
+                    },
+                    {
+                        "value": "$34,720.00",
+                        "classes": "",
+                        "icon": ""
+                    },
+                    {
+                        "value": "%100.00",
+                        "classes": "",
+                        "icon": ""
+                    }
+                ],
+                [
+                    {
+                        "value": "Extra",
+                        "classes": "text-boxed m-0 amber-bg white-fg",
+                        "icon": ""
+                    },
+                    {
+                        "value": "$18,600.00",
+                        "classes": "text-bold",
+                        "icon": ""
+                    },
+                    {
+                        "value": "$0.00",
+                        "classes": "",
+                        "icon": ""
+                    },
+                    {
+                        "value": "%0.00",
+                        "classes": "green-fg",
+                        "icon": "icon icon-minus s14 green-fg"
+                    },
+                    {
+                        "value": "$34,720.00",
+                        "classes": "",
+                        "icon": ""
+                    },
+                    {
+                        "value": "%100.00",
+                        "classes": "",
+                        "icon": ""
+                    }
+                ]
+            ]
+        }
+    },
+    "widget11": {
+        "title": "Team Members",
+        "table": {
+            "columns": [
+                {
+                    "title": ""
+                },
+                {
+                    "title": "Name"
+                },
+                {
+                    "title": "Position"
+                },
+                {
+                    "title": "Office"
+                },
+                {
+                    "title": "E-Mail"
+                },
+                {
+                    "title": "Phone"
+                }
+            ],
+            "rows": [
+                [
+                    "james.jpg",
+                    "Jack Gilbert",
+                    "Design Manager",
+                    "Johor Bahru",
+                    "jgilbert48@mail.com",
+                    "+16 298 032 7774"
+                ],
+                [
+                    "katherine.jpg",
+                    "Kathy Anderson",
+                    "Recruiting Manager",
+                    "Solţānābād",
+                    "kanderson49@mail.com.br",
+                    "+23 572 311 1136"
+                ],
+                [
+                    "andrew.jpg",
+                    "Mark Turner",
+                    "Recruiting Manager",
+                    "Neftegorsk",
+                    "mturner4a@mail.com",
+                    "+01 139 803 9263"
+                ],
+                [
+                    "jane.jpg",
+                    "Kathryn Martinez",
+                    "Director of Sales",
+                    "Palekastro",
+                    "kmartinez4b@mail.com",
+                    "+25 467 022 5393"
+                ],
+                [
+                    "alice.jpg",
+                    "Annie Gonzales",
+                    "Actuary",
+                    "Candon",
+                    "agonzales4c@mail.edu",
+                    "+99 891 619 7138"
+                ],
+                [
+                    "vincent.jpg",
+                    "Howard King",
+                    "Human Resources",
+                    "Bergen op Zoom",
+                    "hking4d@mail.gov",
+                    "+46 984 348 1409"
+                ],
+                [
+                    "joyce.jpg",
+                    "Elizabeth Dixon",
+                    "Electrical Engineer",
+                    "Písečná",
+                    "edixon4e@mail.gov",
+                    "+33 332 067 9063"
+                ],
+                [
+                    "danielle.jpg",
+                    "Dorothy Morris",
+                    "Office Assistant",
+                    "Magsaysay",
+                    "dmorris4f@mail.com",
+                    "+05 490 958 6120"
+                ],
+                [
+                    "carl.jpg",
+                    "Mark Gonzales",
+                    "Quality Control",
+                    "Matsue-shi",
+                    "mgonzales4g@mail.com",
+                    "+03 168 394 9935"
+                ],
+                [
+                    "profile.jpg",
+                    "Catherine Rogers",
+                    "Programmer Analyst",
+                    "Kangar",
+                    "crogers4h@mail.com",
+                    "+86 235 407 5373"
+                ],
+                [
+                    "garry.jpg",
+                    "Ruth Grant",
+                    "Community Outreach",
+                    "Beaune",
+                    "rgrant4i@mail.pl",
+                    "+36 288 083 8460"
+                ],
+                [
+                    "james.jpg",
+                    "Phyllis Gutierrez",
+                    "Administrative Assistant",
+                    "Shlissel’burg",
+                    "pgutierrez4j@mail.net",
+                    "+52 749 861 9304"
+                ],
+                [
+                    "alice.jpg",
+                    "Lillian Morris",
+                    "Media Planner",
+                    "Berlin",
+                    "lmorris4k@mail.de",
+                    "+59 695 110 3856"
+                ],
+                [
+                    "vincent.jpg",
+                    "Jeremy Anderson",
+                    "Systems Engineer",
+                    "Lũng Hồ",
+                    "janderson4l@mail.uk",
+                    "+40 384 115 1448"
+                ],
+                [
+                    "carl.jpg",
+                    "Arthur Lawrence",
+                    "Nurse Practicioner",
+                    "Sarkanjut",
+                    "alawrence4m@mail.com",
+                    "+36 631 599 7867"
+                ],
+                [
+                    "andrew.jpg",
+                    "David Simmons",
+                    "Social Worker",
+                    "Ushumun",
+                    "dsimmons4n@mail.com",
+                    "+01 189 681 4417"
+                ],
+                [
+                    "danielle.jpg",
+                    "Daniel Johnston",
+                    "Help Desk",
+                    "São Carlos",
+                    "djohnston4o@mail.gov",
+                    "+60 028 943 7919"
+                ],
+                [
+                    "joyce.jpg",
+                    "Ann King",
+                    "Internal Auditor",
+                    "Liren",
+                    "aking4p@mail.com",
+                    "+91 103 932 6545"
+                ],
+                [
+                    "james.jpg",
+                    "Phillip Franklin",
+                    "VP Accounting",
+                    "Soba",
+                    "pfranklin4q@mail.com",
+                    "+25 820 986 7626"
+                ],
+                [
+                    "garry.jpg",
+                    "Gary Gonzalez",
+                    "Speech Pathologist",
+                    "Gangkou",
+                    "ggonzalez4r@mail.cc",
+                    "+10 862 046 7916"
+                ]
+            ]
+        }
+    },
+    "weatherWidget": {
+        "locations": {
+            "NewYork": {
+                "name": "New York",
+                "icon": "icon-weather-pouring",
+                "temp": {
+                    "C": "22",
+                    "F": "72"
+                },
+                "windSpeed": {
+                    "KMH": 12,
+                    "MPH": 7.5
+                },
+                "windDirection": "NW",
+                "rainProbability": "98%",
+                "next3Days": [
+                    {
+                        "name": "Sunday",
+                        "icon": "icon-weather-pouring",
+                        "temp": {
+                            "C": "21",
+                            "F": "70"
+                        }
+                    },
+                    {
+                        "name": "Sunday",
+                        "icon": "icon-weather-pouring",
+                        "temp": {
+                            "C": "19",
+                            "F": "66"
+                        }
+                    },
+                    {
+                        "name": "Tuesday",
+                        "icon": "icon-weather-partlycloudy",
+                        "temp": {
+                            "C": "24",
+                            "F": "75"
+                        }
+                    }
+                ]
+            }
+        },
+        "currentLocation": "NewYork",
+        "tempUnit": "C",
+        "speedUnit": "KMH"
+    },
+	"widget14": {
+        "title": "New Customer Setup",
+        "table": {
+            "columns": [
+                {
+                    "title": "Audience"
+                },
+                {
+                    "title": "Most Visited Page"
+                },
+                {
+                    "title": "Avg. Visit Duration"
+                }
+            ]
+        },
+        "tabs": [
+            {
+                "label": "<15 days",
+                "groups": [
+                    {
+                        "title": "Gender",
+                        "data": [
+                            {
+                                "title": "Female",
+                                "value": 45,
+                                "progressColor": "md-primary"
+                            },
+                            {
+                                "title": "Male",
+                                "value": 41,
+                                "progressColor": "md-primary"
+                            },
+                            {
+                                "title": "Not Specified",
+                                "value": 12,
+                                "progressColor": "md-primary"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Income",
+                        "data": [
+                            {
+                                "title": "< $20k",
+                                "value": 9,
+                                "progressColor": "md-accent"
+                            },
+                            {
+                                "title": "$20k - $50k",
+                                "value": 39,
+                                "progressColor": "md-accent"
+                            },
+                            {
+                                "title": "> $50",
+                                "value": 52,
+                                "progressColor": "md-accent"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Age",
+                        "data": [
+                            {
+                                "title": "25 - 34",
+                                "value": 27,
+                                "progressColor": "md-warn"
+                            },
+                            {
+                                "title": "35 - 54",
+                                "value": 32,
+                                "progressColor": "md-warn"
+                            },
+                            {
+                                "title": "55+",
+                                "value": 41,
+                                "progressColor": "md-warn"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Education",
+                        "data": [
+                            {
+                                "title": "No College",
+                                "value": 27,
+                                "progressColor": "md-primary"
+                            },
+                            {
+                                "title": "College",
+                                "value": 56,
+                                "progressColor": "md-primary"
+                            },
+                            {
+                                "title": "Advanced",
+                                "value": 17,
+                                "progressColor": "md-primary"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "label": "15-30 days",
+                "groups": [
+                    {
+                        "title": "Gender",
+                        "data": [
+                            {
+                                "title": "Female",
+                                "value": 40,
+                                "progressColor": "md-primary"
+                            },
+                            {
+                                "title": "Male",
+                                "value": 50,
+                                "progressColor": "md-primary"
+                            },
+                            {
+                                "title": "Not Specified",
+                                "value": 10,
+                                "progressColor": "md-primary"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Income",
+                        "data": [
+                            {
+                                "title": "< $20k",
+                                "value": 8,
+                                "progressColor": "md-accent"
+                            },
+                            {
+                                "title": "$20k - $50k",
+                                "value": 35,
+                                "progressColor": "md-accent"
+                            },
+                            {
+                                "title": "> $50",
+                                "value": 57,
+                                "progressColor": "md-accent"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Age",
+                        "data": [
+                            {
+                                "title": "25 - 34",
+                                "value": 24,
+                                "progressColor": "md-warn"
+                            },
+                            {
+                                "title": "35 - 54",
+                                "value": 26,
+                                "progressColor": "md-warn"
+                            },
+                            {
+                                "title": "55+",
+                                "value": 50,
+                                "progressColor": "md-warn"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Education",
+                        "data": [
+                            {
+                                "title": "No College",
+                                "value": 21,
+                                "progressColor": "md-primary"
+                            },
+                            {
+                                "title": "College",
+                                "value": 57,
+                                "progressColor": "md-primary"
+                            },
+                            {
+                                "title": "Advanced",
+                                "value": 22,
+                                "progressColor": "md-primary"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "label": ">30-60 days",
+                "groups": [
+                    {
+                        "title": "Gender",
+                        "data": [
+                            {
+                                "title": "Female",
+                                "value": 41,
+                                "progressColor": "md-primary"
+                            },
+                            {
+                                "title": "Male",
+                                "value": 43,
+                                "progressColor": "md-primary"
+                            },
+                            {
+                                "title": "Not Specified",
+                                "value": 16,
+                                "progressColor": "md-primary"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Income",
+                        "data": [
+                            {
+                                "title": "< $20k",
+                                "value": 9,
+                                "progressColor": "md-accent"
+                            },
+                            {
+                                "title": "$20k - $50k",
+                                "value": 43,
+                                "progressColor": "md-accent"
+                            },
+                            {
+                                "title": "> $50",
+                                "value": 48,
+                                "progressColor": "md-accent"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Age",
+                        "data": [
+                            {
+                                "title": "25 - 34",
+                                "value": 32,
+                                "progressColor": "md-warn"
+                            },
+                            {
+                                "title": "35 - 54",
+                                "value": 25,
+                                "progressColor": "md-warn"
+                            },
+                            {
+                                "title": "55+",
+                                "value": 43,
+                                "progressColor": "md-warn"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Education",
+                        "data": [
+                            {
+                                "title": "No College",
+                                "value": 30,
+                                "progressColor": "md-primary"
+                            },
+                            {
+                                "title": "College",
+                                "value": 50,
+                                "progressColor": "md-primary"
+                            },
+                            {
+                                "title": "Advanced",
+                                "value": 20,
+                                "progressColor": "md-primary"
+                            }
+                        ]
+                    }
+                ]
+            },
+			{
+                "label": ">60 days",
+                "groups": [
+                    {
+                        "title": "Gender",
+                        "data": [
+                            {
+                                "title": "Female",
+                                "value": 41,
+                                "progressColor": "md-primary"
+                            },
+                            {
+                                "title": "Male",
+                                "value": 43,
+                                "progressColor": "md-primary"
+                            },
+                            {
+                                "title": "Not Specified",
+                                "value": 16,
+                                "progressColor": "md-primary"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Income",
+                        "data": [
+                            {
+                                "title": "< $20k",
+                                "value": 9,
+                                "progressColor": "md-accent"
+                            },
+                            {
+                                "title": "$20k - $50k",
+                                "value": 43,
+                                "progressColor": "md-accent"
+                            },
+                            {
+                                "title": "> $50",
+                                "value": 48,
+                                "progressColor": "md-accent"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Age",
+                        "data": [
+                            {
+                                "title": "25 - 34",
+                                "value": 32,
+                                "progressColor": "md-warn"
+                            },
+                            {
+                                "title": "35 - 54",
+                                "value": 25,
+                                "progressColor": "md-warn"
+                            },
+                            {
+                                "title": "55+",
+                                "value": 43,
+                                "progressColor": "md-warn"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Education",
+                        "data": [
+                            {
+                                "title": "No College",
+                                "value": 30,
+                                "progressColor": "md-primary"
+                            },
+                            {
+                                "title": "College",
+                                "value": 50,
+                                "progressColor": "md-primary"
+                            },
+                            {
+                                "title": "Advanced",
+                                "value": 20,
+                                "progressColor": "md-primary"
+                            }
+                        ]
+                    }
+                ]
+            },
+			{
+                "label": "Total",
+                "groups": [
+                    {
+                        "title": "Gender",
+                        "data": [
+                            {
+                                "title": "Female",
+                                "value": 41,
+                                "progressColor": "md-primary"
+                            },
+                            {
+                                "title": "Male",
+                                "value": 43,
+                                "progressColor": "md-primary"
+                            },
+                            {
+                                "title": "Not Specified",
+                                "value": 16,
+                                "progressColor": "md-primary"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Income",
+                        "data": [
+                            {
+                                "title": "< $20k",
+                                "value": 9,
+                                "progressColor": "md-accent"
+                            },
+                            {
+                                "title": "$20k - $50k",
+                                "value": 43,
+                                "progressColor": "md-accent"
+                            },
+                            {
+                                "title": "> $50",
+                                "value": 48,
+                                "progressColor": "md-accent"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Age",
+                        "data": [
+                            {
+                                "title": "25 - 34",
+                                "value": 32,
+                                "progressColor": "md-warn"
+                            },
+                            {
+                                "title": "35 - 54",
+                                "value": 25,
+                                "progressColor": "md-warn"
+                            },
+                            {
+                                "title": "55+",
+                                "value": 43,
+                                "progressColor": "md-warn"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Education",
+                        "data": [
+                            {
+                                "title": "No College",
+                                "value": 30,
+                                "progressColor": "md-primary"
+                            },
+                            {
+                                "title": "College",
+                                "value": 50,
+                                "progressColor": "md-primary"
+                            },
+                            {
+                                "title": "Advanced",
+                                "value": 20,
+                                "progressColor": "md-primary"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+	"widget15": {
+        "title": "Periodic Reviews",
+        "table": {
+            "columns": [
+                {
+                    "title": "Audience"
+                },
+                {
+                    "title": "Most Visited Page"
+                },
+                {
+                    "title": "Avg. Visit Duration"
+                }
+            ]
+        },
+        "tabs": [
+            {
+                "label": "Overdue",
+                "groups": [
+                    {
+                        "title": "Gender",
+                        "data": [
+                            {
+                                "title": "Female",
+                                "value": 45,
+                                "progressColor": "md-primary"
+                            },
+                            {
+                                "title": "Male",
+                                "value": 41,
+                                "progressColor": "md-primary"
+                            },
+                            {
+                                "title": "Not Specified",
+                                "value": 12,
+                                "progressColor": "md-primary"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Income",
+                        "data": [
+                            {
+                                "title": "< $20k",
+                                "value": 9,
+                                "progressColor": "md-accent"
+                            },
+                            {
+                                "title": "$20k - $50k",
+                                "value": 39,
+                                "progressColor": "md-accent"
+                            },
+                            {
+                                "title": "> $50",
+                                "value": 52,
+                                "progressColor": "md-accent"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Age",
+                        "data": [
+                            {
+                                "title": "25 - 34",
+                                "value": 27,
+                                "progressColor": "md-warn"
+                            },
+                            {
+                                "title": "35 - 54",
+                                "value": 32,
+                                "progressColor": "md-warn"
+                            },
+                            {
+                                "title": "55+",
+                                "value": 41,
+                                "progressColor": "md-warn"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Education",
+                        "data": [
+                            {
+                                "title": "No College",
+                                "value": 27,
+                                "progressColor": "md-primary"
+                            },
+                            {
+                                "title": "College",
+                                "value": 56,
+                                "progressColor": "md-primary"
+                            },
+                            {
+                                "title": "Advanced",
+                                "value": 17,
+                                "progressColor": "md-primary"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "label": "Due in 30 days",
+                "groups": [
+                    {
+                        "title": "Gender",
+                        "data": [
+                            {
+                                "title": "Female",
+                                "value": 40,
+                                "progressColor": "md-primary"
+                            },
+                            {
+                                "title": "Male",
+                                "value": 50,
+                                "progressColor": "md-primary"
+                            },
+                            {
+                                "title": "Not Specified",
+                                "value": 10,
+                                "progressColor": "md-primary"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Income",
+                        "data": [
+                            {
+                                "title": "< $20k",
+                                "value": 8,
+                                "progressColor": "md-accent"
+                            },
+                            {
+                                "title": "$20k - $50k",
+                                "value": 35,
+                                "progressColor": "md-accent"
+                            },
+                            {
+                                "title": "> $50",
+                                "value": 57,
+                                "progressColor": "md-accent"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Age",
+                        "data": [
+                            {
+                                "title": "25 - 34",
+                                "value": 24,
+                                "progressColor": "md-warn"
+                            },
+                            {
+                                "title": "35 - 54",
+                                "value": 26,
+                                "progressColor": "md-warn"
+                            },
+                            {
+                                "title": "55+",
+                                "value": 50,
+                                "progressColor": "md-warn"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Education",
+                        "data": [
+                            {
+                                "title": "No College",
+                                "value": 21,
+                                "progressColor": "md-primary"
+                            },
+                            {
+                                "title": "College",
+                                "value": 57,
+                                "progressColor": "md-primary"
+                            },
+                            {
+                                "title": "Advanced",
+                                "value": 22,
+                                "progressColor": "md-primary"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "label": "Due in 60 days",
+                "groups": [
+                    {
+                        "title": "Gender",
+                        "data": [
+                            {
+                                "title": "Female",
+                                "value": 41,
+                                "progressColor": "md-primary"
+                            },
+                            {
+                                "title": "Male",
+                                "value": 43,
+                                "progressColor": "md-primary"
+                            },
+                            {
+                                "title": "Not Specified",
+                                "value": 16,
+                                "progressColor": "md-primary"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Income",
+                        "data": [
+                            {
+                                "title": "< $20k",
+                                "value": 9,
+                                "progressColor": "md-accent"
+                            },
+                            {
+                                "title": "$20k - $50k",
+                                "value": 43,
+                                "progressColor": "md-accent"
+                            },
+                            {
+                                "title": "> $50",
+                                "value": 48,
+                                "progressColor": "md-accent"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Age",
+                        "data": [
+                            {
+                                "title": "25 - 34",
+                                "value": 32,
+                                "progressColor": "md-warn"
+                            },
+                            {
+                                "title": "35 - 54",
+                                "value": 25,
+                                "progressColor": "md-warn"
+                            },
+                            {
+                                "title": "55+",
+                                "value": 43,
+                                "progressColor": "md-warn"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Education",
+                        "data": [
+                            {
+                                "title": "No College",
+                                "value": 30,
+                                "progressColor": "md-primary"
+                            },
+                            {
+                                "title": "College",
+                                "value": 50,
+                                "progressColor": "md-primary"
+                            },
+                            {
+                                "title": "Advanced",
+                                "value": 20,
+                                "progressColor": "md-primary"
+                            }
+                        ]
+                    }
+                ]
+            },
+			{
+                "label": ">60 days",
+                "groups": [
+                    {
+                        "title": "Gender",
+                        "data": [
+                            {
+                                "title": "Female",
+                                "value": 41,
+                                "progressColor": "md-primary"
+                            },
+                            {
+                                "title": "Male",
+                                "value": 43,
+                                "progressColor": "md-primary"
+                            },
+                            {
+                                "title": "Not Specified",
+                                "value": 16,
+                                "progressColor": "md-primary"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Income",
+                        "data": [
+                            {
+                                "title": "< $20k",
+                                "value": 9,
+                                "progressColor": "md-accent"
+                            },
+                            {
+                                "title": "$20k - $50k",
+                                "value": 43,
+                                "progressColor": "md-accent"
+                            },
+                            {
+                                "title": "> $50",
+                                "value": 48,
+                                "progressColor": "md-accent"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Age",
+                        "data": [
+                            {
+                                "title": "25 - 34",
+                                "value": 32,
+                                "progressColor": "md-warn"
+                            },
+                            {
+                                "title": "35 - 54",
+                                "value": 25,
+                                "progressColor": "md-warn"
+                            },
+                            {
+                                "title": "55+",
+                                "value": 43,
+                                "progressColor": "md-warn"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Education",
+                        "data": [
+                            {
+                                "title": "No College",
+                                "value": 30,
+                                "progressColor": "md-primary"
+                            },
+                            {
+                                "title": "College",
+                                "value": 50,
+                                "progressColor": "md-primary"
+                            },
+                            {
+                                "title": "Advanced",
+                                "value": 20,
+                                "progressColor": "md-primary"
+                            }
+                        ]
+                    }
+                ]
+            },
+			{
+                "label": "Total",
+                "groups": [
+                    {
+                        "title": "Gender",
+                        "data": [
+                            {
+                                "title": "Female",
+                                "value": 41,
+                                "progressColor": "md-primary"
+                            },
+                            {
+                                "title": "Male",
+                                "value": 43,
+                                "progressColor": "md-primary"
+                            },
+                            {
+                                "title": "Not Specified",
+                                "value": 16,
+                                "progressColor": "md-primary"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Income",
+                        "data": [
+                            {
+                                "title": "< $20k",
+                                "value": 9,
+                                "progressColor": "md-accent"
+                            },
+                            {
+                                "title": "$20k - $50k",
+                                "value": 43,
+                                "progressColor": "md-accent"
+                            },
+                            {
+                                "title": "> $50",
+                                "value": 48,
+                                "progressColor": "md-accent"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Age",
+                        "data": [
+                            {
+                                "title": "25 - 34",
+                                "value": 32,
+                                "progressColor": "md-warn"
+                            },
+                            {
+                                "title": "35 - 54",
+                                "value": 25,
+                                "progressColor": "md-warn"
+                            },
+                            {
+                                "title": "55+",
+                                "value": 43,
+                                "progressColor": "md-warn"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Education",
+                        "data": [
+                            {
+                                "title": "No College",
+                                "value": 30,
+                                "progressColor": "md-primary"
+                            },
+                            {
+                                "title": "College",
+                                "value": 50,
+                                "progressColor": "md-primary"
+                            },
+                            {
+                                "title": "Advanced",
+                                "value": 20,
+                                "progressColor": "md-primary"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+	"widget16": {
+        "title": "Trigger event (I)",
+        "table": {
+            "columns": [
+                {
+                    "title": "Audience"
+                },
+                {
+                    "title": "Most Visited Page"
+                },
+                {
+                    "title": "Avg. Visit Duration"
+                }
+            ]
+        },
+        "tabs": [
+            {
+                "label": "Due in 30 days",
+                "groups": [
+                    {
+                        "title": "Gender",
+                        "data": [
+                            {
+                                "title": "Female",
+                                "value": 45,
+                                "progressColor": "md-primary"
+                            },
+                            {
+                                "title": "Male",
+                                "value": 41,
+                                "progressColor": "md-primary"
+                            },
+                            {
+                                "title": "Not Specified",
+                                "value": 12,
+                                "progressColor": "md-primary"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Income",
+                        "data": [
+                            {
+                                "title": "< $20k",
+                                "value": 9,
+                                "progressColor": "md-accent"
+                            },
+                            {
+                                "title": "$20k - $50k",
+                                "value": 39,
+                                "progressColor": "md-accent"
+                            },
+                            {
+                                "title": "> $50",
+                                "value": 52,
+                                "progressColor": "md-accent"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Age",
+                        "data": [
+                            {
+                                "title": "25 - 34",
+                                "value": 27,
+                                "progressColor": "md-warn"
+                            },
+                            {
+                                "title": "35 - 54",
+                                "value": 32,
+                                "progressColor": "md-warn"
+                            },
+                            {
+                                "title": "55+",
+                                "value": 41,
+                                "progressColor": "md-warn"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Education",
+                        "data": [
+                            {
+                                "title": "No College",
+                                "value": 27,
+                                "progressColor": "md-primary"
+                            },
+                            {
+                                "title": "College",
+                                "value": 56,
+                                "progressColor": "md-primary"
+                            },
+                            {
+                                "title": "Advanced",
+                                "value": 17,
+                                "progressColor": "md-primary"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "label": "Due in 60 days",
+                "groups": [
+                    {
+                        "title": "Gender",
+                        "data": [
+                            {
+                                "title": "Female",
+                                "value": 40,
+                                "progressColor": "md-primary"
+                            },
+                            {
+                                "title": "Male",
+                                "value": 50,
+                                "progressColor": "md-primary"
+                            },
+                            {
+                                "title": "Not Specified",
+                                "value": 10,
+                                "progressColor": "md-primary"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Income",
+                        "data": [
+                            {
+                                "title": "< $20k",
+                                "value": 8,
+                                "progressColor": "md-accent"
+                            },
+                            {
+                                "title": "$20k - $50k",
+                                "value": 35,
+                                "progressColor": "md-accent"
+                            },
+                            {
+                                "title": "> $50",
+                                "value": 57,
+                                "progressColor": "md-accent"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Age",
+                        "data": [
+                            {
+                                "title": "25 - 34",
+                                "value": 24,
+                                "progressColor": "md-warn"
+                            },
+                            {
+                                "title": "35 - 54",
+                                "value": 26,
+                                "progressColor": "md-warn"
+                            },
+                            {
+                                "title": "55+",
+                                "value": 50,
+                                "progressColor": "md-warn"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Education",
+                        "data": [
+                            {
+                                "title": "No College",
+                                "value": 21,
+                                "progressColor": "md-primary"
+                            },
+                            {
+                                "title": "College",
+                                "value": 57,
+                                "progressColor": "md-primary"
+                            },
+                            {
+                                "title": "Advanced",
+                                "value": 22,
+                                "progressColor": "md-primary"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "label": ">60 days",
+                "groups": [
+                    {
+                        "title": "Gender",
+                        "data": [
+                            {
+                                "title": "Female",
+                                "value": 41,
+                                "progressColor": "md-primary"
+                            },
+                            {
+                                "title": "Male",
+                                "value": 43,
+                                "progressColor": "md-primary"
+                            },
+                            {
+                                "title": "Not Specified",
+                                "value": 16,
+                                "progressColor": "md-primary"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Income",
+                        "data": [
+                            {
+                                "title": "< $20k",
+                                "value": 9,
+                                "progressColor": "md-accent"
+                            },
+                            {
+                                "title": "$20k - $50k",
+                                "value": 43,
+                                "progressColor": "md-accent"
+                            },
+                            {
+                                "title": "> $50",
+                                "value": 48,
+                                "progressColor": "md-accent"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Age",
+                        "data": [
+                            {
+                                "title": "25 - 34",
+                                "value": 32,
+                                "progressColor": "md-warn"
+                            },
+                            {
+                                "title": "35 - 54",
+                                "value": 25,
+                                "progressColor": "md-warn"
+                            },
+                            {
+                                "title": "55+",
+                                "value": 43,
+                                "progressColor": "md-warn"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Education",
+                        "data": [
+                            {
+                                "title": "No College",
+                                "value": 30,
+                                "progressColor": "md-primary"
+                            },
+                            {
+                                "title": "College",
+                                "value": 50,
+                                "progressColor": "md-primary"
+                            },
+                            {
+                                "title": "Advanced",
+                                "value": 20,
+                                "progressColor": "md-primary"
+                            }
+                        ]
+                    }
+                ]
+            },
+			{
+                "label": "Total",
+                "groups": [
+                    {
+                        "title": "Gender",
+                        "data": [
+                            {
+                                "title": "Female",
+                                "value": 41,
+                                "progressColor": "md-primary"
+                            },
+                            {
+                                "title": "Male",
+                                "value": 43,
+                                "progressColor": "md-primary"
+                            },
+                            {
+                                "title": "Not Specified",
+                                "value": 16,
+                                "progressColor": "md-primary"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Income",
+                        "data": [
+                            {
+                                "title": "< $20k",
+                                "value": 9,
+                                "progressColor": "md-accent"
+                            },
+                            {
+                                "title": "$20k - $50k",
+                                "value": 43,
+                                "progressColor": "md-accent"
+                            },
+                            {
+                                "title": "> $50",
+                                "value": 48,
+                                "progressColor": "md-accent"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Age",
+                        "data": [
+                            {
+                                "title": "25 - 34",
+                                "value": 32,
+                                "progressColor": "md-warn"
+                            },
+                            {
+                                "title": "35 - 54",
+                                "value": 25,
+                                "progressColor": "md-warn"
+                            },
+                            {
+                                "title": "55+",
+                                "value": 43,
+                                "progressColor": "md-warn"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Education",
+                        "data": [
+                            {
+                                "title": "No College",
+                                "value": 30,
+                                "progressColor": "md-primary"
+                            },
+                            {
+                                "title": "College",
+                                "value": 50,
+                                "progressColor": "md-primary"
+                            },
+                            {
+                                "title": "Advanced",
+                                "value": 20,
+                                "progressColor": "md-primary"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+	"widget17": {
+        "title": "Trigger event (O)",
+        "table": {
+            "columns": [
+                {
+                    "title": "Audience"
+                },
+                {
+                    "title": "Most Visited Page"
+                },
+                {
+                    "title": "Avg. Visit Duration"
+                }
+            ]
+        },
+        "tabs": [
+            {
+                "label": "Due in 30 days",
+                "groups": [
+                    {
+                        "title": "Gender",
+                        "data": [
+                            {
+                                "title": "Female",
+                                "value": 45,
+                                "progressColor": "md-primary"
+                            },
+                            {
+                                "title": "Male",
+                                "value": 41,
+                                "progressColor": "md-primary"
+                            },
+                            {
+                                "title": "Not Specified",
+                                "value": 12,
+                                "progressColor": "md-primary"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Income",
+                        "data": [
+                            {
+                                "title": "< $20k",
+                                "value": 9,
+                                "progressColor": "md-accent"
+                            },
+                            {
+                                "title": "$20k - $50k",
+                                "value": 39,
+                                "progressColor": "md-accent"
+                            },
+                            {
+                                "title": "> $50",
+                                "value": 52,
+                                "progressColor": "md-accent"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Age",
+                        "data": [
+                            {
+                                "title": "25 - 34",
+                                "value": 27,
+                                "progressColor": "md-warn"
+                            },
+                            {
+                                "title": "35 - 54",
+                                "value": 32,
+                                "progressColor": "md-warn"
+                            },
+                            {
+                                "title": "55+",
+                                "value": 41,
+                                "progressColor": "md-warn"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Education",
+                        "data": [
+                            {
+                                "title": "No College",
+                                "value": 27,
+                                "progressColor": "md-primary"
+                            },
+                            {
+                                "title": "College",
+                                "value": 56,
+                                "progressColor": "md-primary"
+                            },
+                            {
+                                "title": "Advanced",
+                                "value": 17,
+                                "progressColor": "md-primary"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "label": "Due in 60 days",
+                "groups": [
+                    {
+                        "title": "Gender",
+                        "data": [
+                            {
+                                "title": "Female",
+                                "value": 40,
+                                "progressColor": "md-primary"
+                            },
+                            {
+                                "title": "Male",
+                                "value": 50,
+                                "progressColor": "md-primary"
+                            },
+                            {
+                                "title": "Not Specified",
+                                "value": 10,
+                                "progressColor": "md-primary"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Income",
+                        "data": [
+                            {
+                                "title": "< $20k",
+                                "value": 8,
+                                "progressColor": "md-accent"
+                            },
+                            {
+                                "title": "$20k - $50k",
+                                "value": 35,
+                                "progressColor": "md-accent"
+                            },
+                            {
+                                "title": "> $50",
+                                "value": 57,
+                                "progressColor": "md-accent"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Age",
+                        "data": [
+                            {
+                                "title": "25 - 34",
+                                "value": 24,
+                                "progressColor": "md-warn"
+                            },
+                            {
+                                "title": "35 - 54",
+                                "value": 26,
+                                "progressColor": "md-warn"
+                            },
+                            {
+                                "title": "55+",
+                                "value": 50,
+                                "progressColor": "md-warn"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Education",
+                        "data": [
+                            {
+                                "title": "No College",
+                                "value": 21,
+                                "progressColor": "md-primary"
+                            },
+                            {
+                                "title": "College",
+                                "value": 57,
+                                "progressColor": "md-primary"
+                            },
+                            {
+                                "title": "Advanced",
+                                "value": 22,
+                                "progressColor": "md-primary"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "label": ">60 days",
+                "groups": [
+                    {
+                        "title": "Gender",
+                        "data": [
+                            {
+                                "title": "Female",
+                                "value": 41,
+                                "progressColor": "md-primary"
+                            },
+                            {
+                                "title": "Male",
+                                "value": 43,
+                                "progressColor": "md-primary"
+                            },
+                            {
+                                "title": "Not Specified",
+                                "value": 16,
+                                "progressColor": "md-primary"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Income",
+                        "data": [
+                            {
+                                "title": "< $20k",
+                                "value": 9,
+                                "progressColor": "md-accent"
+                            },
+                            {
+                                "title": "$20k - $50k",
+                                "value": 43,
+                                "progressColor": "md-accent"
+                            },
+                            {
+                                "title": "> $50",
+                                "value": 48,
+                                "progressColor": "md-accent"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Age",
+                        "data": [
+                            {
+                                "title": "25 - 34",
+                                "value": 32,
+                                "progressColor": "md-warn"
+                            },
+                            {
+                                "title": "35 - 54",
+                                "value": 25,
+                                "progressColor": "md-warn"
+                            },
+                            {
+                                "title": "55+",
+                                "value": 43,
+                                "progressColor": "md-warn"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Education",
+                        "data": [
+                            {
+                                "title": "No College",
+                                "value": 30,
+                                "progressColor": "md-primary"
+                            },
+                            {
+                                "title": "College",
+                                "value": 50,
+                                "progressColor": "md-primary"
+                            },
+                            {
+                                "title": "Advanced",
+                                "value": 20,
+                                "progressColor": "md-primary"
+                            }
+                        ]
+                    }
+                ]
+            },
+			{
+                "label": "Total",
+                "groups": [
+                    {
+                        "title": "Gender",
+                        "data": [
+                            {
+                                "title": "Female",
+                                "value": 41,
+                                "progressColor": "md-primary"
+                            },
+                            {
+                                "title": "Male",
+                                "value": 43,
+                                "progressColor": "md-primary"
+                            },
+                            {
+                                "title": "Not Specified",
+                                "value": 16,
+                                "progressColor": "md-primary"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Income",
+                        "data": [
+                            {
+                                "title": "< $20k",
+                                "value": 9,
+                                "progressColor": "md-accent"
+                            },
+                            {
+                                "title": "$20k - $50k",
+                                "value": 43,
+                                "progressColor": "md-accent"
+                            },
+                            {
+                                "title": "> $50",
+                                "value": 48,
+                                "progressColor": "md-accent"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Age",
+                        "data": [
+                            {
+                                "title": "25 - 34",
+                                "value": 32,
+                                "progressColor": "md-warn"
+                            },
+                            {
+                                "title": "35 - 54",
+                                "value": 25,
+                                "progressColor": "md-warn"
+                            },
+                            {
+                                "title": "55+",
+                                "value": 43,
+                                "progressColor": "md-warn"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Education",
+                        "data": [
+                            {
+                                "title": "No College",
+                                "value": 30,
+                                "progressColor": "md-primary"
+                            },
+                            {
+                                "title": "College",
+                                "value": 50,
+                                "progressColor": "md-primary"
+                            },
+                            {
+                                "title": "Advanced",
+                                "value": 20,
+                                "progressColor": "md-primary"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+	"widget19": {
+        "title": "Policy and Procedures",
+        "table": {
+            "columns": [
+                {
+                    "title": "Audience"
+                },
+                {
+                    "title": "Most Visited Page"
+                },
+                {
+                    "title": "Avg. Visit Duration"
+                }
+            ]
+        },
+        "tabs": [
+            {
+                "label": "New",
+                "groups": [
+                    {
+                        "title": "Gender",
+						"content" : "Criminal Records Check Policy by John Antony on July 22, 2016, 18:05PM",
+                        "data": [
+                            {
+                                "title": "Female",
+                                "value": 45,
+                                "progressColor": "md-primary"
+                            },
+                            {
+                                "title": "Male",
+                                "value": 41,
+                                "progressColor": "md-primary"
+                            },
+                            {
+                                "title": "Not Specified",
+                                "value": 12,
+                                "progressColor": "md-primary"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Income",
+						"content" : "Appraisal Corporate Procedure by John Antony on July 22, 2016, 14:05PM",
+                        "data": [
+                            {
+                                "title": "< $20k",
+                                "value": 9,
+                                "progressColor": "md-accent"
+                            },
+                            {
+                                "title": "$20k - $50k",
+                                "value": 39,
+                                "progressColor": "md-accent"
+                            },
+                            {
+                                "title": "> $50",
+                                "value": 52,
+                                "progressColor": "md-accent"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Age",
+						"content" : "Change Management Agreement by Clinton on July 21, 2016, 11:05AM",
+                        "data": [
+                            {
+                                "title": "25 - 34",
+                                "value": 27,
+                                "progressColor": "md-warn"
+                            },
+                            {
+                                "title": "35 - 54",
+                                "value": 32,
+                                "progressColor": "md-warn"
+                            },
+                            {
+                                "title": "55+",
+                                "value": 41,
+                                "progressColor": "md-warn"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Education",
+						"content" : "Recording of Sickness Absence by Willy on July 20, 2016, 14:05AM ",
+                        "data": [
+                            {
+                                "title": "No College",
+                                "value": 27,
+                                "progressColor": "md-primary"
+                            },
+                            {
+                                "title": "College",
+                                "value": 56,
+                                "progressColor": "md-primary"
+                            },
+                            {
+                                "title": "Advanced",
+                                "value": 17,
+                                "progressColor": "md-primary"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "label": "Amendments",
+                "groups": [
+                    {
+                        "title": "Gender",
+						"content" : "Periodic Review Procedure by Clinton on July 21, 2016, 11:05AM ",
+                        "data": [
+                            {
+                                "title": "Female",
+                                "value": 40,
+                                "progressColor": "md-primary"
+                            },
+                            {
+                                "title": "Male",
+                                "value": 50,
+                                "progressColor": "md-primary"
+                            },
+                            {
+                                "title": "Not Specified",
+                                "value": 10,
+                                "progressColor": "md-primary"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Income",
+						"content" : "Trigger Rules Policy by Willy on July 20, 2016, 14:05AM ",
+                        "data": [
+                            {
+                                "title": "< $20k",
+                                "value": 8,
+                                "progressColor": "md-accent"
+                            },
+                            {
+                                "title": "$20k - $50k",
+                                "value": 35,
+                                "progressColor": "md-accent"
+                            },
+                            {
+                                "title": "> $50",
+                                "value": 57,
+                                "progressColor": "md-accent"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Age",
+						"content2" : "",
+                        "data": [
+                            {
+                                "title": "25 - 34",
+                                "value": 24,
+                                "progressColor": "md-warn"
+                            },
+                            {
+                                "title": "35 - 54",
+                                "value": 26,
+                                "progressColor": "md-warn"
+                            },
+                            {
+                                "title": "55+",
+                                "value": 50,
+                                "progressColor": "md-warn"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Education",
+						"content" : "",
+                        "data": [
+                            {
+                                "title": "No College",
+                                "value": 21,
+                                "progressColor": "md-primary"
+                            },
+                            {
+                                "title": "College",
+                                "value": 57,
+                                "progressColor": "md-primary"
+                            },
+                            {
+                                "title": "Advanced",
+                                "value": 22,
+                                "progressColor": "md-primary"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

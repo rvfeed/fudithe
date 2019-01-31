@@ -1,0 +1,154 @@
+{
+    "data": [
+        {
+            "SNo": "1",
+			"assess": "Shell / Unlicensed entity",
+            "response": "No",
+            "rseDisp": "N/A",
+            "attDoc": "N/A",
+            "disSts": "N/A",
+            "appBy": "N/A",
+			"appDt": "N/A"
+        },
+		{
+			"SNo": "2",
+            "assess": "Money Service Bureau",
+            "response": "Yes",
+            "rseDisp": "Yes",
+            "attDoc": "Money.Doc",
+            "disSts": "Pending",
+            "appBy": "N/A",
+			"appDt": "N/A"
+        },
+		{
+            "SNo": "3",
+			"assess": "Correspondent bank which has dealings with Shell entities?",
+            "response": "No",
+            "rseDisp": "N/A",
+            "attDoc": "N/A",
+            "disSts": "N/A",
+            "appBy": "N/A",
+			"appDt": "N/A"
+        },
+		{
+            "SNo": "4",
+			"assess": "Has Customer issued Bearer shares?",
+            "response": "Yes",
+            "rseDisp": "Yes",
+            "attDoc": "Shell.Doc",
+            "disSts": "Approved",
+            "appBy": "VD21232",
+			"appDt": "15/11/16"
+        },
+		{
+            "SNo": "5",
+			"assess": "Can Customer issue bearer shares (as per constitutional docs)?",
+            "response": "Yes",
+            "rseDisp": "N/A",
+            "attDoc": "Shares.Doc",
+            "disSts": "N/A",
+            "appBy": "N/A",
+			"appDt": "N/A"
+        },
+		{
+            "SNo": "5.1",
+			"assess": "Received undertaking from customer not to issue bearer shares / notify Bank when Bearer shares are issued?",
+            "response": "Yes",
+            "rseDisp": "",
+            "attDoc": "",
+            "disSts": "",
+            "appBy": "",
+			"appDt": ""
+        },
+		{
+            "SNo": "6",
+			"assess": "Is there a Corporate shareholder who has issued bearer shares",
+            "response": "Yes",
+            "rseDisp": "Yes",
+            "attDoc": "Bearer.Doc",
+            "disSts": "Pending",
+            "appBy": "N/A",
+			"appDt": "N/A"
+        },
+		{
+            "SNo": "6.1",
+			"assess": "Can the Corporate shareholder issue bearer shares (as per constitutional docs)",
+            "response": "No",
+            "rseDisp": "",
+            "attDoc": "",
+            "disSts": "",
+            "appBy": "",
+			"appDt": ""
+        },
+		{
+            "SNo": "6.2",
+			"assess": "Received undertaking from Corporate shareholder not to issue bearer shares?",
+            "response": "No",
+            "rseDisp": "",
+            "attDoc": "",
+            "disSts": "",
+            "appBy": "",
+			"appDt": ""
+        },
+		{
+            "SNo": "7",
+			"assess": "Is the entity or business a direct participant in and deriving substantial business income (> X%) from gambling or gaming industry",
+            "response": "No",
+            "rseDisp": "N/A",
+            "attDoc": "N/A",
+            "disSts": "N/A",
+            "appBy": "N/A",
+			"appDt": "N/A"
+        },
+		{
+            "SNo": "8",
+			"assess": "Is the company involved in production or supply of prohibited goods under Defense goods policy",
+            "response": "No",
+            "rseDisp": "N/A",
+            "attDoc": "N/A",
+            "disSts": "N/A",
+            "appBy": "N/A",
+			"appDt": "N/A"
+        },
+		{
+            "SNo": "9",
+			"assess": "Is the entity or individual prohibited under Sanctions policy or procedures",
+            "response": "No",
+            "rseDisp": "N/A",
+            "attDoc": "N/A",
+            "disSts": "N/A",
+            "appBy": "N/A",
+			"appDt": "N/A"
+        },
+		{
+            "SNo": "10",
+			"assess": "Does the entity have anonymous relationships where customers have a numbered account or passbook",
+            "response": "No",
+            "rseDisp": "N/A",
+            "attDoc": "N/A",
+            "disSts": "N/A",
+            "appBy": "N/A",
+			"appDt": "N/A"
+        },
+		{
+            "SNo": "11",
+			"assess": "Is the customer known to have been involved in ML or TF",
+            "response": "No",
+            "rseDisp": "N/A",
+            "attDoc": "N/A",
+            "disSts": "N/A",
+            "appBy": "N/A",
+			"appDt": "N/A"
+        },
+		{
+            "SNo": "12",
+			"assess": "Is the entity a Foreign Government Office",
+            "response": "No",
+            "rseDisp": "N/A",
+            "attDoc": "N/A",
+            "disSts": "N/A",
+            "appBy": "N/A",
+			"appDt": "N/A"
+        }		
+    ]
+}

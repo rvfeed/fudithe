@@ -1,0 +1,13 @@
+{
+  "data": [{
+    "row":[
+      {
+      "sharename":"share1",
+      "id":1,
+      "shareType": [{"option":"Individual"},{"option":"Non-Individual"},{"option":"Public"}],
+      "eo": ""
+    }
+    ]
+  }]
+}
+

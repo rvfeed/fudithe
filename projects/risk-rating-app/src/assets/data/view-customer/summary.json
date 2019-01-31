@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "avatar": "assets/images/Dashboard/1.jpg",
+	  "id": 1,
+      "UCIC": 121232,
+      "Name": "Aadarsh",
+	  "Stage": "Onboarded", 
+      "Number": 3454567890,
+      "Type": "Current AC",
+	  "Aggredator": 23456,
+	  "Risk": "High",
+	  "Alert": "1",
+	  "State": "Completed",
+	  "trigger": "Deposit",
+	  "scanningType" : "High Risk",
+	  "alert" : 1
+    },
+	{
+      "avatar": "assets/images/Dashboard/2.jpg",
+	  "id": 2,
+      "UCIC": 653245,
+      "Name": "Aagneya",
+	  "Stage": "New Customer", 
+      "Number": 3454567890,
+      "Type": "Current AC",
+	  "Aggredator": 34567,
+	  "Risk": "Medium",
+	  "Alert": "3",
+	  "State": "Sanction Risk",
+	  "trigger": "Driving License Expired",
+	  "scanningType" : "High Risk",
+	  "alert" : 1
+    },
+	{
+      "avatar": "assets/images/Dashboard/3.jpg",
+	  "id": 3,
+      "UCIC": 234567,
+      "Name": "Frank",
+	  "Stage": "Periodic Review", 
+      "Number": 3454567890,
+      "Type": "Current AC",
+	  "Aggredator": 44556,
+	  "Risk": "Medium",
+	  "Alert": "2",
+	  "State": "PEP Risk",
+	  "trigger": "Deposit",
+	  "scanningType" : "High Risk",
+	  "alert" : 1
+    },
+	{
+      "avatar": "assets/images/Dashboard/4.jpg",
+	  "id": 4,
+      "UCIC": 987678,
+      "Name": "Johnson",
+	  "Stage": "Trigger", 
+      "Number": 3454567890,
+      "Type": "Current AC",
+	  "Aggredator": 34556,
+	  "Risk": "High",
+	  "Alert": "5",
+	  "State": "Review Due",
+	  "trigger": "Driving License Expired",
+	  "scanningType" : "High Risk",
+	  "alert" : 1
+    }
+  ]
+}

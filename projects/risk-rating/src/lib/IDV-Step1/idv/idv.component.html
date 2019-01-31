@@ -1,0 +1,149 @@
+
+  <div class="idvSec customIdvSec">
+      <!--<div class="idv_main_heading ">Entity Configuration</div>-->
+<p class="idv_Desc1 idv_Desc_para idvCustomfont">Configure country-wise Identification & Verification database field-level settings for easier and faster customer onboarding. These settings will also enable AML/KYC compliance 
+    in keeping with industry best practices and as mandated by specific jurisdictions.</p>
+    <md-content id="idv-panel" class="idvCustomColor md-padding idv_content shadow"> 
+         
+    <div id="idv-panel" class="idvCustomColor mat-padding idv_content shadow">
+        <p class="subDescription">Add Ownership, Entity Type and Sub Client Entity Type options and select the requirement that will be available for a specific country.</p>
+        <div layout="column" layout-gt-xs="row" flex-gt-xs="100" flex class="idv-align-tab idvNewAlign">
+            <div flex="100" flex-gt-xs="33">
+              <h6><b>Ownership Type</b></h6>
+             
+                  <mat-radio-group [(ngModel)]="entityValue">
+                  <div *ngFor="let idv of idvRadioBtn">
+                  <mat-radio-button class="radiobn_checked" (click)="ownershipFn(idv.value)" [value]="idv.value"></mat-radio-button><span contenteditable = "true">{{idv.value}}
+                    <!--<span class="idveditbtn"></span>-->
+                    </span>
+                  </div>
+                </mat-radio-group>
+                <div layout="row">
+                    <div flex flex-gt-xs="70">
+                      <mat-form-field layout="column" layout-gt-xs="row" flex=" 100" flex-gt-xs="100" class="marginTop10">
+                          <input type="text" matInput name="idvadd1" [(ngModel)]="idvvalue1" placeholder="Add Ownership Type" />
+                      </mat-form-field></div>
+                    <div flex flex-gt-xs="30"> <button mat-button matTooltip="Add" class="idvAddBtn idvAddNew" (click)="idvValue(idvvalue1)">
+                     
+                      <i class="fa fa-plus" style="bottom: 0px;right: 5px;"></i>
+                        <span> Add</span>
+                       <!--  <img src="assets/tabIcon/add-icon.png" class="button_img idvadd_img" alt="image"/>  -->
+                    </button> </div>
+                  </div>
+                  <div layout="column" layout-gt-xs="row" flex-gt-xs="100" flex>
+                      
+                    </div>
+
+                    <div layout="column" layout-gt-xs="row" flex-gt-xs="100" flex style="float:right">
+
+                      </div>
+                    </div>
+
+                    <div flex="100" flex-gt-xs="33" *ngIf="EntityFlag">
+                        <h6><b>Entity Type</b></h6>
+                       
+               <mat-radio-group [(ngModel)]="entitytypeValue">
+                         <div *ngFor="let idv25 of entityradioValue">
+                            <mat-radio-button  class="radiobn_checked" (click)="entityFn(idv25.type)" [value]="idv25.type"></mat-radio-button><span contenteditable = "true">{{idv25.name}}
+                            </span>
+
+                         </div>
+                              </mat-radio-group> 
+                       
+                      
+                      <div layout="row">
+                      <div flex flex-gt-xs="70">
+                        <mat-form-field layout="column" layout-gt-xs="row" flex="100" flex-gt-xs="100" class="marginTop10">
+                          <input type="text" matInput name="idvadd2" [(ngModel)]="idvvalue2" placeholder="Add Entity Type" />
+                        </mat-form-field></div>
+                      <div flex flex-gt-xs="30"><button  mat-button matTooltip="Add" class="idvAddNew" (click)="idvValue1(idvvalue2)">                           
+                          <i class="fa fa-plus" style="bottom: 0px;right: 5px;"></i>
+                          <span> Add</span>
+                          <!-- <img src="assets/tabIcon/add-icon.png" class="button_img idvadd_img" alt="image"/>  -->
+                        </button></div>
+                    </div>
+                    
+                        
+                      
+                         
+                     
+
+
+
+
+                  </div>
+
+                  <div flex="100" flex-gt-xs="33" ng-show="SubClientFlag"> 
+                      <h6><b>Sub Client Entity Type</b></h6>
+                     
+                          <div *ngFor="let idv of subEntity">
+                          <mat-checkbox  value="{{idv.name}}" (change)="change(lst,idv.name)" aria-label="Checkbox 1"></mat-checkbox>
+                                {{idv.name}}
+                            </div>	
+                    
+                  
+                      <div layout="row">
+                      <div flex flex-gt-xs="70">
+                        <mat-form-field layout="column" layout-gt-xs="row" flex="100" flex-gt-xs="100" class="marginTop10">
+                            <input type="text" matInput name="idvadd3" [(ngModel)]="idvvalue3" placeholder="Add Sub Client Entity Type" />
+                          </mat-form-field></div>
+                      <div flex flex-gt-xs="30"> <button mat-button matTooltip="Add" class="idvAddNew" (click)="idvValue2(idvvalue3)">                        
+                          <i class="fa fa-plus" style="bottom: 0px;right: 5px;"></i>
+                          <span> Add</span>
+                          <!-- <img src="assets/tabIcon/add-icon.png" class="button_img idvadd_img" alt="image"/>  -->
+                          </button></div>
+                      </div>
+                  
+                    </div>
+                    <div layout="column" class="configBtnSec" layout-gt-xs="row" flex>
+                        <!--<md-input-container flex="100" flex-gt-xs="100" class="configInputSec">-->
+                          <div class="width100">
+                       <button class="pull-right configBtnIdv" (click)="subEntityFn(entityValue,entitytypeValue,subclientvalue);">Configure</button>
+                          </div>
+                       <!--</md-input-container>-->
+                       </div>	
+      
+        
+          
+            
+
+                       <div id="idv-panel1" *ngIf="idvstep1tableFlag" class="idvCustomColor md-padding idv_content shadow">
+                          
+                              <div class="simple-table-container md-whiteframe-4dp">
+                                      <!--<div class="table-title">
+                                          Employees
+                                      </div>-->
+                          
+                          
+                                      <table class="simple idvSimpleTable width60" ms-responsive-table>
+                                          <thead>
+                                              <tr>
+                                      <td class="width10"><b>S.No</b></td>
+                                    <td class="width20"><b>Ownership Type</b></td>
+                                    <td class="width20"><b>Entity Type</b></td>
+                                    <td class="width45"><b>Sub Client Entity Type</b></td>
+                                    <td><b>Action</b></td>
+                                              </tr>
+                                          </thead>
+                          
+                                          <tbody>
+                                              <tr *ngFor="let newvalue of tableentity">
+                                    <td class="width10">{{newvalue.id}}</td>
+                                    <td class="width20">{{newvalue.name}}</td>
+                                    <td class="width20">{{newvalue.value}}</td>
+                                    <td class="width45">{{newvalue.value2}}</td>
+                                    <td>
+                                        <span matTooltip ="Next" (click)="idvredirect(newvalue)"> <i class="fa fa-arrow-right" aria-hidden="true"></i></span>
+                          </td>
+                                    
+                                  </tr>
+                                          </tbody>
+                                      </table>
+                                  </div>
+                                </div>
+
+
+              </div>
+              </div>
+            </md-content>
+            </div>

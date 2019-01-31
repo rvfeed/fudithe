@@ -1,0 +1,138 @@
+{
+  "table1": [
+    {
+	  "id": 1,
+      "head": "Managed by Me - Pending my approval",
+      "value1": "123",
+	  "value2": "431", 
+      "value3": "332",
+	  "total" : "965"
+    },
+	{
+	  "id": 2,
+      "head": "Assigned to Me - Pending my approval",
+      "value1": "321",
+	  "value2": "232", 
+      "value3": "323",
+	  "total" : "678"
+    },
+	{
+	  "id": 3,
+      "head": "Resubmitted to Me",
+      "value1": "767",
+	  "value2": "754", 
+      "value3": "654",
+	  "total" : "988"
+    },
+	{
+	  "id": 4,
+      "head": "Rejected by Me - Pending with Maker",
+      "value1": "555",
+	  "value2": "532", 
+      "value3": "423",
+	  "total" : "988"
+    }
+  ],
+  "table2": [
+    {
+	  "id": 1,
+      "head": "Managed by Me - Pending my approval",
+      "value1": "123",
+	  "value2": "431", 
+      "value3": "332",
+	  "total" : "877"
+    },
+	{
+	  "id": 2,
+      "head": "Assigned to Me - Pending my approval",
+      "value1": "321",
+	  "value2": "232", 
+      "value3": "323",
+	  "total" : "767"
+    },
+	{
+	  "id": 3,
+      "head": "Resubmitted to Me",
+      "value1": "767",
+	  "value2": "754", 
+      "value3": "654",
+	  "total" : "922"
+    },
+	{
+	  "id": 4,
+      "head": "Rejected by Me - Pending with Maker",
+      "value1": "555",
+	  "value2": "532", 
+      "value3": "423",
+	  "total" : "988"
+    }
+  ],
+  "table3": [
+    {
+	  "id": 1,
+      "head": "Managed by Me - Pending my approval",
+      "value1": "123",
+	  "value2": "431", 
+      "value3": "332",
+	  "total" : "567"
+    },
+	{
+	  "id": 2,
+     "head": "Assigned to Me - Pending my approval",
+      "value1": "321",
+	  "value2": "232", 
+      "value3": "323",
+	  "total" : "864"
+    },
+	{
+	  "id": 3,
+      "head": "Resubmitted to Me",
+      "value1": "767",
+	  "value2": "754", 
+      "value3": "654",
+	  "total" : "657"
+    },
+	{
+	  "id": 4,
+      "head": "Rejected by Me - Pending with Maker",
+      "value1": "555",
+	  "value2": "532", 
+      "value3": "423",
+	  "total" : "988"
+    }
+  ],
+  "table4": [
+    {
+	  "id": 1,
+      "head": "Managed by Me - Pending my approval",
+      "value1": "123",
+	  "value2": "431", 
+      "value3": "332",
+	  "total" : "1086"
+    },
+	{
+	  "id": 2,
+      "head": "Assigned to Me - Pending my approval",
+      "value1": "321",
+	  "value2": "232", 
+      "value3": "323",
+	  "total" : "988"
+    },
+	{
+	  "id": 3,
+      "head": "Resubmitted to Me",
+      "value1": "767",
+	  "value2": "754", 
+      "value3": "654",
+	  "total" : "888"
+    },
+	{
+	  "id": 4,
+      "head": "Rejected by Me - Pending with Maker",
+      "value1": "555",
+	  "value2": "532", 
+      "value3": "423",
+	  "total" : "988"
+    }
+  ]
+}
